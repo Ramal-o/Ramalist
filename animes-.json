@@ -1,0 +1,1291 @@
+[
+  {
+    "id": 1,
+    "nom": "Naruto",
+    "annee": 2002,
+    "genres": ["Action", "Aventure", "Comédie", "Drame", "Fantastique", "Arts Martiaux", "Ninja", "Surnaturel", "Mystère", "Tragédie", "Shōnen"],
+    "synopsis": "Dans le village caché de Konoha, les ninjas apprennent dès leur plus jeune âge à maîtriser des techniques de combat et à accomplir des missions périlleuses. Naruto Uzumaki, un jeune garçon turbulent et rejeté par les habitants, rêve de devenir Hokage, le ninja le plus puissant et le plus respecté du village. Mais derrière son énergie débordante et ses nombreuses facéties se cache un lourd secret : il porte en lui le démon renard à neuf queues, une créature autrefois responsable d'une terrible catastrophe. Déterminé à gagner la reconnaissance de ceux qui l'entourent, Naruto intègre l'académie des ninjas, puis rejoint une équipe aux côtés de Sasuke Uchiwa et Sakura Haruno, sous la direction de leur maître Kakashi Hatake. Entre missions dangereuses, rivalités, amitiés et affrontements redoutables, son parcours le confrontera aux réalités du monde ninja et aux épreuves nécessaires pour accomplir son rêve.",
+    "image": "https://res.cloudinary.com/fekakkk0/image/upload/v1794581684/naruto-logo.jpg"
+  },
+  {
+    "id": 2,
+    "nom": "One Piece",
+    "annee": 1999,
+    "genres": ["Action", "Aventure", "Comédie", "Drame", "Fantastique", "Fantasy", "Science-Fiction", "Surnaturel", "Mystère", "Arts Martiaux", "Historique", "Shōnen"],
+    "synopsis": "Depuis que le légendaire pirate Gol D. Roger a révélé l'existence d'un trésor inestimable, le One Piece, les océans sont devenus le théâtre d'une immense vague de piraterie. Parmi ceux qui rêvent de le découvrir se trouve Monkey D. Luffy, un jeune homme au corps élastique depuis qu'il a mangé un mystérieux fruit du démon. Animé par une ambition sans limite, il quitte son village natal avec un objectif bien précis : devenir le prochain Roi des Pirates. Pour y parvenir, il rassemble progressivement un équipage aux personnalités et aux talents variés, les Chapeaux de paille. Ensemble, ils prennent la mer à la découverte d'îles extraordinaires, de civilisations inconnues et de territoires dangereux. Mais sur cette route semée d'embûches, ils devront affronter de puissants ennemis et se confronter aux mystères d'un monde bien plus vaste qu'ils ne l'imaginent."
+  },
+  {
+    "id": 3,
+    "nom": "Bleach",
+    "annee": 2004,
+    "genres": ["Shōnen (nekketsu)", "Action", "Aventure", "Comédie", "Drame", "Fantastique", "Science-Fiction", "Surnaturel"],
+    "synopsis": "Depuis son enfance, Ichigo Kurosaki possède une capacité particulière : celle de voir les esprits. Sa vie bascule lorsqu'il rencontre Rukia Kuchiki, une mystérieuse jeune femme appartenant aux Shinigami, des êtres chargés de protéger les humains contre les âmes malveillantes appelées Hollows. Lors d'une attaque particulièrement dangereuse, Ichigo se retrouve investi de pouvoirs qui bouleversent complètement son existence. Désormais détenteur des capacités d'un Shinigami, il doit assumer une responsabilité qui le dépasse et protéger son entourage des créatures qui menacent le monde des vivants. Mais cette nouvelle condition l'entraîne rapidement dans un univers surnaturel régi par des règles complexes, où les conflits entre Shinigami, les secrets du monde spirituel et l'apparition d'adversaires toujours plus redoutables mettent ses convictions à l'épreuve."
+  },
+  {
+    "id": 4,
+    "nom": "The Apothecary Diaries",
+    "annee": 2023,
+    "genres": ["Drame", "Mystère", "Historique", "Romance", "Comédie", "Psychologique", "Enquête", "Médical", "Slice of Life"],
+    "synopsis": "Dans une Chine impériale inspirée de l'époque ancienne, Maomao mène une existence discrète en travaillant comme servante au palais impérial après avoir été enlevée et vendue. Fille d'un apothicaire, elle possède des connaissances approfondies en médecine, en plantes et en poisons, ainsi qu'une curiosité scientifique difficile à contenir. Alors qu'elle tente de rester à l'écart des intrigues de la cour, son intelligence et son sens de l'observation finissent par attirer l'attention de Jinshi, un haut fonctionnaire aussi séduisant qu'énigmatique. Rapidement impliquée dans les affaires du palais, Maomao se retrouve chargée d'éclaircir des incidents étranges touchant aussi bien les concubines impériales que les membres de la famille souveraine. Entre secrets, rivalités et énigmes médicales, elle utilise ses connaissances pour dévoiler des vérités que beaucoup préféreraient garder enfouies."
+  },
+
+  {
+    "id": 5,
+    "nom": "Attack on Titan",
+    "annee": 2013,
+    "genres": ["Action", "Drame", "Fantasy", "Mystère", "Horreur", "Surnaturel", "Tragédie", "Militaire", "Shōnen"],
+    "synopsis": "Depuis près d'un siècle, l'humanité vit recluse derrière trois gigantesques murailles destinées à la protéger des Titans, d'immenses créatures humanoïdes qui dévorent les êtres humains sans raison apparente. Cette fragile paix s'effondre lorsqu'un Titan colossal apparaît soudainement devant les remparts et ouvre une brèche dans la défense de la ville. Eren Jäger, un jeune garçon qui rêve de découvrir le monde extérieur, voit son existence bouleversée par cette catastrophe. Témoin de la destruction de son foyer, il décide de rejoindre l'armée avec ses amis Mikasa Ackerman et Armin Arlelt afin de combattre les Titans. Mais derrière cette guerre pour la survie de l'espèce humaine se cachent des mystères troublants. À mesure que les affrontements s'intensifient, les frontières entre ennemis, alliés et vérité deviennent de plus en plus difficiles à distinguer."
+  },
+  {
+    "id": 6,
+    "nom": "Demon Slayer",
+    "annee": 2019,
+    "genres": ["Action", "Aventure", "Fantastique", "Arts Martiaux", "Surnaturel", "Drame", "Historique", "Shōnen"],
+    "synopsis": "À l'époque Taishō, au Japon, Tanjiro Kamado mène une vie paisible dans les montagnes avec sa famille, jusqu'au jour où il découvre à son retour que celle-ci a été massacrée par des démons. Seule sa sœur Nezuko a survécu, mais elle a été transformée en l'une de ces créatures. Refusant de l'abandonner, Tanjiro entreprend de trouver un moyen de lui rendre son humanité. Pour atteindre cet objectif, il rejoint les rangs des pourfendeurs de démons, une organisation secrète consacrée à la traque de ces êtres qui terrorisent la population. Armé de sa détermination et d'un sabre, il doit apprendre à maîtriser des techniques de combat exigeantes tout en affrontant des adversaires toujours plus dangereux. Entre voyages périlleux, rencontres marquantes et combats intenses, son parcours sera guidé par un lien familial qu'aucune transformation ne semble pouvoir briser."
+  },
+  {
+    "id": 7,
+    "nom": "Jujutsu Kaisen",
+    "annee": 2020,
+    "genres": ["Action", "Fantastique", "Surnaturel", "Horreur", "Drame", "Comédie", "Arts Martiaux", "Shōnen"],
+    "synopsis": "Yūji Itadori est un lycéen doté de capacités physiques exceptionnelles qui préfère consacrer son temps au club de spiritisme plutôt qu'aux activités sportives. Sa vie bascule lorsqu'il entre en contact avec un objet maudit particulièrement dangereux : un doigt appartenant à Ryomen Sukuna, une entité légendaire redoutée parmi les fléaux. Pour sauver ses camarades d'une attaque surnaturelle, Yūji prend une décision qui bouleverse son destin en absorbant l'objet et devient l'hôte de cette créature. Repéré par Satoru Gojo, un exorciste d'une puissance exceptionnelle, il intègre l'école d'exorcisme de Tokyo afin d'apprendre à combattre les malédictions. Désormais engagé dans une guerre invisible aux yeux du grand public, Yūji doit maîtriser ses nouvelles capacités tout en faisant face à une question terrifiante : que faire d'un pouvoir qui menace autant le monde que son propre porteur ?"
+  },
+  {
+    "id": 8,
+    "nom": "My Hero Academia",
+    "annee": 2016,
+    "genres": ["Action", "Aventure", "Comédie", "Drame", "Science-Fiction", "Super-héros", "Shōnen"],
+    "synopsis": "Dans une société où près de 80 % de la population possède des capacités extraordinaires appelées Alters, devenir super-héros est devenu une véritable profession. Pourtant, Izuku Midoriya, un garçon passionné par ces figures légendaires, est né sans aucun pouvoir. Malgré les obstacles et les moqueries, il refuse d'abandonner son rêve d'intégrer le prestigieux lycée Yuei pour devenir un héros. Sa rencontre avec All Might, le plus célèbre des super-héros, va cependant changer le cours de son existence. Impressionné par sa détermination, ce dernier lui offre une chance exceptionnelle d'accéder au monde dont il a toujours rêvé. Izuku doit alors apprendre à maîtriser une capacité extraordinaire tout en affrontant les exigences d'une formation particulièrement difficile. Entre rivalités, amitiés et menaces grandissantes, son parcours l'amènera à découvrir ce que signifie réellement être un héros."
+  },
+  {
+    "id": 9,
+    "nom": "Hunter x Hunter",
+    "annee": 2011,
+    "genres": ["Action", "Aventure", "Fantastique", "Fantasy", "Arts Martiaux", "Mystère", "Drame", "Shōnen"],
+    "synopsis": "Sur une île paisible, Gon Freecss grandit en croyant que son père a disparu depuis longtemps. Lorsqu'il découvre que celui-ci est en réalité un Hunter, un aventurier d'élite autorisé à explorer le monde et à accomplir des missions exceptionnelles, il décide de suivre ses traces. Bien décidé à comprendre les raisons de son départ, Gon quitte son foyer pour passer l'examen particulièrement sélectif permettant d'obtenir le titre de Hunter. Au cours de cette épreuve, il rencontre Leorio, Kurapika et Killua, trois candidats aux ambitions très différentes avec lesquels il noue progressivement des liens forts. Mais devenir Hunter ne se résume pas à réussir un examen : ce statut ouvre les portes d'un monde immense, peuplé de dangers, de mystères et d'individus aux capacités extraordinaires. Pour atteindre son objectif, Gon devra dépasser ses limites et découvrir une réalité bien plus complexe qu'il ne l'imaginait."
+  },
+  {
+    "id": 10,
+    "nom": "Fullmetal Alchemist: Brotherhood",
+    "annee": 2009,
+    "genres": ["Action", "Aventure", "Drame", "Fantasy", "Science-Fiction", "Mystère", "Philosophique", "Shōnen"],
+    "synopsis": "Dans un monde où l'alchimie permet de transformer la matière selon des principes rigoureux, les frères Edward et Alphonse Elric tentent de retrouver ce qu'ils ont perdu après une expérience interdite destinée à ramener leur mère à la vie. Cette tentative désastreuse leur a coûté très cher : Edward a perdu plusieurs membres, tandis qu'Alphonse a vu son corps disparaître entièrement. Pour survivre, son âme a été liée à une imposante armure grâce à l'alchimie. Convaincus que la légendaire Pierre philosophale pourrait leur permettre de réparer leurs corps, les deux frères entreprennent un long voyage à travers le pays. Leur quête les conduit à découvrir des secrets qui dépassent largement leur situation personnelle, notamment au sein de l'armée d'Amestris et des puissantes institutions qui dirigent le pays. Entre découvertes, conspirations et dilemmes moraux, leur aventure mettra à l'épreuve leur conception du sacrifice et du prix de la connaissance."
+  },
+  {
+    "id": 11,
+    "nom": "Death Note",
+    "annee": 2006,
+    "genres": ["Mystère", "Psychologique", "Thriller", "Surnaturel", "Drame", "Policier", "Shōnen"],
+    "synopsis": "Light Yagami est un lycéen particulièrement brillant qui considère le monde comme profondément corrompu par la criminalité et l'injustice. Son existence prend un tournant inattendu lorsqu'il découvre un mystérieux carnet abandonné dans son établissement : le Death Note. Possédé par un Shinigami nommé Ryuk, cet objet possède une capacité terrifiante : toute personne dont le nom y est inscrit meurt. Fasciné par ce pouvoir, Light décide de l'utiliser pour éliminer les criminels et bâtir une société débarrassée du mal, dans laquelle il compte devenir une figure divine. Cependant, la multiplication des morts inexpliquées attire rapidement l'attention des autorités. Un enquêteur aussi brillant qu'insaisissable, connu sous le nom de L, se lance alors sur ses traces. S'engage ainsi une confrontation intellectuelle entre deux esprits exceptionnels, où chaque décision peut révéler une identité ou faire basculer l'équilibre de la partie."
+  },
+  {
+    "id": 12,
+    "nom": "Tokyo Ghoul",
+    "annee": 2014,
+    "genres": ["Action", "Drame", "Horreur", "Psychologique", "Surnaturel", "Tragédie", "Seinen"],
+    "synopsis": "Dans un Tokyo où des créatures appelées goules vivent parmi les humains, dissimulant leur véritable nature derrière une apparence ordinaire, Ken Kaneki mène une existence tranquille d'étudiant passionné de lecture. Après une rencontre qui tourne au drame, il subit une transformation qui bouleverse entièrement sa vie : devenu un être hybride, à la fois humain et goule, il doit désormais apprendre à vivre avec deux natures opposées. Incapable de se nourrir comme les humains, mais refusant de perdre son humanité, Ken découvre progressivement le monde secret des goules et les tensions qui l'opposent à la société humaine. Entre ceux qui cherchent simplement à survivre et ceux qui considèrent les humains comme des proies, il tente de trouver sa place dans un univers où la frontière entre monstres et victimes devient de plus en plus floue."
+  },
+  {
+    "id": 13,
+    "nom": "Black Clover",
+    "annee": 2017,
+    "genres": ["Action", "Aventure", "Comédie", "Fantasy", "Magie", "Arts Martiaux", "Shōnen"],
+    "synopsis": "Dans un royaume où la magie détermine la place de chacun dans la société, Asta fait figure d'exception : né sans la moindre capacité magique, il refuse pourtant d'abandonner son rêve de devenir Empereur-Mage, le plus puissant protecteur du royaume. Son rival et ami d'enfance, Yuno, possède au contraire un talent magique exceptionnel et nourrit la même ambition. Lors de la cérémonie de remise des grimoires, Asta reçoit un mystérieux ouvrage capable de neutraliser la magie, lui offrant enfin une chance de rivaliser avec les sorciers les plus doués. Il rejoint alors l'ordre des Taureaux Noirs, une escouade de chevaliers-mages aussi imprévisible que redoutable. Entre missions périlleuses, rivalités entre compagnies et menaces grandissantes, Asta devra prouver que la détermination peut dépasser les limites imposées par la naissance."
+  },
+  {
+    "id": 14,
+    "nom": "Fairy Tail",
+    "annee": 2009,
+    "genres": ["Action", "Aventure", "Comédie", "Fantasy", "Magie", "Drame", "Shōnen"],
+    "synopsis": "Dans le royaume de Fiore, la magie fait partie du quotidien et les mages se regroupent au sein de guildes pour accomplir des missions rémunérées. Lucy Heartfilia, jeune magicienne céleste, rêve de rejoindre Fairy Tail, une guilde réputée autant pour la puissance de ses membres que pour leurs comportements imprévisibles. Sa rencontre avec Natsu Dragnir, un mage de feu à la recherche de son mentor disparu, lui ouvre les portes de cette communauté. Elle y découvre un groupe de compagnons hauts en couleur, prêts à se soutenir malgré leurs disputes et leurs différences. Aux côtés de Natsu, d'Erza, de Grey et des autres membres, Lucy participe à des missions qui les entraînent dans des affrontements toujours plus dangereux. Au fil de leurs aventures, les liens qui unissent les membres de Fairy Tail deviennent leur plus grande force face aux menaces qui pèsent sur le monde magique."
+  },
+  {
+    "id": 15,
+    "nom": "Dragon Ball Z",
+    "annee": 1989,
+    "genres": ["Action", "Aventure", "Comédie", "Science-Fiction", "Arts Martiaux", "Fantasy", "Shōnen"],
+    "synopsis": "Plusieurs années après avoir remporté le tournoi d'arts martiaux, Son Goku mène une vie paisible auprès de sa famille. Cette tranquillité prend fin lorsqu'un mystérieux guerrier venu de l'espace révèle les véritables origines de Goku et l'existence d'autres combattants de sa race, les Saiyans. Cette découverte entraîne une succession de conflits qui dépassent largement les frontières de la Terre. Accompagné de ses amis, Goku affronte des adversaires toujours plus puissants, tandis que de nouvelles menaces mettent régulièrement en péril la survie de la planète et de ses habitants. Des Saiyans aux tyrans galactiques, chaque affrontement pousse les combattants à repousser leurs limites et à découvrir de nouvelles formes de puissance. Entre entraînements, rivalités et combats décisifs, l'histoire suit l'évolution de Goku et de ses compagnons face à des dangers d'une ampleur croissante."
+  },
+  {
+    "id": 16,
+    "nom": "Dragon Ball Super",
+    "annee": 2015,
+    "genres": ["Action", "Aventure", "Comédie", "Science-Fiction", "Arts Martiaux", "Fantasy", "Shōnen"],
+    "synopsis": "Après la défaite de Majin Buu, la Terre connaît une période de paix que Son Goku peine à apprécier pleinement : toujours animé par sa passion du combat, il cherche constamment de nouveaux adversaires capables de le pousser dans ses retranchements. Cette tranquillité est bientôt bouleversée par l'apparition de Beerus, le Dieu de la Destruction, venu sur Terre à la recherche d'un mystérieux adversaire annoncé par une prophétie. Cette rencontre ouvre à Goku et à ses compagnons les portes d'un univers bien plus vaste, peuplé de dieux, de guerriers extraordinaires et de civilisations inconnues. De nouveaux tournois et des affrontements aux enjeux considérables les conduisent à découvrir l'existence de plusieurs univers. Entre rivalités, entraînements et menaces capables de bouleverser l'équilibre cosmique, Goku poursuit sans relâche sa quête de puissance."
+  },
+  {
+    "id": 17,
+    "nom": "Hunter x Hunter (1999)",
+    "annee": 1999,
+    "genres": ["Action", "Aventure", "Fantasy", "Arts Martiaux", "Drame", "Mystère", "Shōnen"],
+    "synopsis": "Sur une île paisible, Gon Freecss grandit en croyant que son père a disparu depuis longtemps. Lorsqu'il découvre que celui-ci est en réalité un Hunter, un aventurier d'élite autorisé à explorer le monde et à accomplir des missions exceptionnelles, il décide de suivre ses traces. Bien décidé à comprendre les raisons de son départ, Gon quitte son foyer pour passer l'examen particulièrement sélectif permettant d'obtenir le titre de Hunter. Au cours de cette épreuve, il rencontre Leorio, Kurapika et Killua, trois candidats aux ambitions très différentes avec lesquels il noue progressivement des liens forts. Mais devenir Hunter ne se résume pas à réussir un examen : ce statut ouvre les portes d'un monde immense, peuplé de dangers, de mystères et d'individus aux capacités extraordinaires. Pour atteindre son objectif, Gon devra dépasser ses limites et découvrir une réalité bien plus complexe qu'il ne l'imaginait."
+  },
+  {
+    "id": 18,
+    "nom": "Sword Art Online",
+    "annee": 2012,
+    "genres": ["Action", "Aventure", "Romance", "Fantasy", "Science-Fiction", "Jeu Vidéo", "Drame", "Isekai"],
+    "synopsis": "En 2022, le lancement de Sword Art Online, un jeu de rôle en réalité virtuelle révolutionnaire, attire des milliers de joueurs désireux de découvrir un monde entièrement immersif. Mais l'expérience tourne rapidement au cauchemar lorsque son créateur annonce qu'il est impossible de se déconnecter : la seule façon de retrouver le monde réel consiste à terminer les cent niveaux du jeu. Plus grave encore, toute mort dans cet univers entraîne des conséquences irréversibles dans la réalité. Kirito, un joueur expérimenté qui avait participé à la version bêta, doit alors apprendre à survivre dans cet environnement devenu une véritable prison. Au fil de sa progression, il rencontre d'autres joueurs, noue des liens importants et découvre les dangers d'un monde où chaque combat peut être décisif."
+  },
+  {
+    "id": 19,
+    "nom": "Re:Zero",
+    "annee": 2016,
+    "genres": ["Action", "Drame", "Fantasy", "Psychologique", "Romance", "Thriller", "Isekai"],
+    "synopsis": "En sortant d'une supérette, Subaru Natsuki se retrouve soudainement transporté dans un monde fantastique dont il ne connaît rien. Alors qu'il tente de comprendre sa nouvelle situation, il rencontre Emilia, une jeune femme qui l'aide à échapper à une mauvaise rencontre. Mais Subaru découvre rapidement qu'il possède une capacité aussi étrange que douloureuse : chaque fois qu'il meurt, il revient à un moment antérieur, tout en conservant ses souvenirs. Incapable de révéler la véritable nature de ce pouvoir, il doit apprendre à utiliser cette seconde chance pour protéger les personnes auxquelles il s'attache. Dans un royaume marqué par les intrigues politiques, les rivalités et les forces surnaturelles, ses décisions peuvent avoir des conséquences considérables. Chaque nouvelle tentative l'oblige à comprendre davantage ce monde et à affronter ses propres limites."
+  },
+  {
+    "id": 20,
+    "nom": "Mushoku Tensei",
+    "annee": 2021,
+    "genres": ["Aventure", "Drame", "Fantasy", "Magie", "Romance", "Isekai", "Ecchi"],
+    "synopsis": "Après une vie marquée par l'isolement et les regrets, un homme meurt et se réincarne dans un monde fantastique sous le nom de Rudeus Greyrat. Conservant les souvenirs de son existence passée, il décide de ne pas reproduire les mêmes erreurs et de profiter de cette nouvelle chance pour construire une vie différente. Dès son enfance, il découvre un talent exceptionnel pour la magie et commence à étudier auprès de professeurs qui l'aident à développer ses capacités. Ses rencontres avec de nouveaux compagnons l'entraînent progressivement au-delà de son environnement familial, à la découverte d'un monde vaste, dangereux et rempli de cultures différentes. Mais cette seconde existence ne lui offre pas de solution facile : Rudeus doit apprendre à mûrir, à assumer ses choix et à affronter les conséquences de ses actes au fil d'un parcours qui le transforme profondément."
+  },
+  {
+    "id": 21,
+    "nom": "That Time I Got Reincarnated as a Slime",
+    "annee": 2018,
+    "genres": ["Action", "Aventure", "Comédie", "Fantasy", "Magie", "Isekai", "Politique"],
+    "synopsis": "Satoru Mikami, un employé de bureau ordinaire, meurt de manière inattendue et se réincarne dans un monde fantastique sous la forme d'un slime, une créature généralement considérée comme faible. Pourtant, il découvre rapidement qu'il possède des capacités extraordinaires, notamment la faculté d'absorber des êtres vivants et de reproduire leurs pouvoirs. Après avoir rencontré Veldra, un puissant dragon emprisonné depuis des siècles, il reçoit le nom de Limule Tempest et commence une nouvelle existence. Son objectif dépasse rapidement sa simple survie : il souhaite créer un royaume où les différentes races pourront vivre ensemble sans discrimination. En nouant des alliances avec des monstres, des humains et des peuples variés, Limule construit progressivement une nation. Mais cette ambition attire également l'attention de puissances qui ne voient pas d'un bon œil l'émergence de son territoire."
+  },
+  {
+    "id": 22,
+    "nom": "Overlord",
+    "annee": 2015,
+    "genres": ["Action", "Aventure", "Fantasy", "Magie", "Surnaturel", "Isekai", "Stratégie"],
+    "synopsis": "Le jour de la fermeture du jeu en ligne Yggdrasil, Momonga, un joueur passionné, décide de rester connecté jusqu'à la dernière seconde. Mais au lieu d'être déconnecté, il se retrouve dans un monde qui ressemble étrangement à celui de son jeu, sous l'apparence de son puissant avatar squelettique. Les personnages non joueurs semblent désormais posséder leur propre conscience et lui obéir avec une fidélité absolue. Devenu le maître du Grand Tombeau de Nazarick, Momonga prend le nom d'Ainz Ooal Gown et cherche à comprendre ce qui lui est arrivé. Entre exploration, intrigues politiques et expansion de son influence, il tente de découvrir si d'autres joueurs ont également été transportés dans ce monde."
+  },
+  {
+    "id": 23,
+    "nom": "No Game No Life",
+    "annee": 2014,
+    "genres": ["Aventure", "Comédie", "Fantasy", "Psychologique", "Jeu Vidéo", "Isekai"],
+    "synopsis": "Sora et Shiro forment un duo de joueurs légendaires connus sous le nom de Blank, réputés pour leur capacité à vaincre n'importe quel adversaire dans les jeux vidéo. Leur quotidien bascule lorsqu'ils sont transportés dans un monde parallèle gouverné par une règle fondamentale : tous les conflits doivent être réglés par des jeux. Dans cet univers, les seize races sont soumises à des parties dont les enjeux peuvent déterminer leur territoire, leurs ressources et leur avenir. Accueillis par Stephanie Dola, héritière d'un royaume humain en difficulté, les deux frères et sœurs décident de relever un défi immense : redonner sa place à l'humanité, considérée comme la plus faible des races. Grâce à leur intelligence, leur coordination et leur capacité à anticiper les stratégies adverses, ils entreprennent de gravir les échelons de ce monde où chaque victoire ouvre de nouvelles possibilités."
+  },
+  {
+    "id": 24,
+    "nom": "Konosuba",
+    "annee": 2016,
+    "genres": ["Aventure", "Comédie", "Fantasy", "Parodie", "Isekai", "Magie"],
+    "synopsis": "Après une mort aussi inattendue qu'absurde, Kazuma Satō se retrouve face à Aqua, une déesse qui lui propose de renaître dans un monde fantastique. Plutôt que de choisir un pouvoir exceptionnel, il décide de l'emmener avec lui, sans imaginer les difficultés que cette décision va provoquer. Installés dans une ville de départ, ils recrutent deux nouvelles aventurières : Megumin, une magicienne obsédée par la magie explosive, et Darkness, une chevalière dont le comportement est pour le moins particulier. Ensemble, ils forment un groupe dont les compétences semblent prometteuses sur le papier, mais dont les personnalités rendent chaque mission imprévisible. Entre quêtes mal préparées, problèmes d'argent et catastrophes provoquées par leurs propres décisions, Kazuma tente tant bien que mal de mener une existence confortable dans ce monde qui devait représenter une seconde chance."
+  },
+  {
+    "id": 25,
+    "nom": "The Rising of the Shield Hero",
+    "annee": 2019,
+    "genres": ["Action", "Aventure", "Drame", "Fantasy", "Isekai", "Magie"],
+    "synopsis": "Naofumi Iwatani est invoqué dans un royaume fantastique avec trois autres hommes afin de devenir l'un des quatre héros légendaires chargés de repousser des vagues de catastrophes. Désigné comme le Héros au Bouclier, il découvre rapidement que son équipement défensif le désavantage face aux autres héros. Trahi dès les premiers jours et rejeté par une grande partie du royaume, il perd confiance dans ceux qui l'entourent. Contraint de poursuivre sa mission presque seul, il acquiert de l'expérience et s'entoure progressivement de compagnons fidèles. Son objectif devient alors double : devenir assez puissant pour affronter les vagues et découvrir la vérité derrière les événements qui ont bouleversé son existence."
+  },
+  {
+    "id": 26,
+    "nom": "Log Horizon",
+    "annee": 2013,
+    "genres": ["Action", "Aventure", "Fantasy", "Science-Fiction", "Jeu Vidéo", "Isekai", "Stratégie"],
+    "synopsis": "Lorsqu'une mise à jour du jeu en ligne Elder Tale est déployée, des milliers de joueurs se retrouvent mystérieusement prisonniers de son univers. Incapables de se déconnecter, ils doivent apprendre à vivre dans un monde où les règles du jeu sont devenues leur réalité. Shiroe, un joueur expérimenté connu pour ses talents de stratège, comprend rapidement que la survie ne dépend pas uniquement de la puissance au combat. Avec ses compagnons Naotsugu et Akatsuki, il cherche à organiser la communauté des aventuriers et à établir des relations avec les habitants de ce monde. Entre négociations politiques, exploration de donjons et découverte des nouvelles règles de leur existence, Shiroe tente de construire une société stable. Mais derrière cette apparente aventure vidéoludique se cachent des mystères concernant la nature même de cet univers."
+  },
+  {
+    "id": 27,
+    "nom": "The Eminence in Shadow",
+    "annee": 2022,
+    "genres": ["Action", "Comédie", "Fantasy", "Magie", "Arts Martiaux", "Isekai", "Parodie"],
+    "synopsis": "Depuis son enfance, Minoru Kageno rêve de devenir une puissance mystérieuse agissant dans l'ombre, capable de manipuler les événements sans jamais attirer l'attention. Après sa mort dans son monde d'origine, il renaît dans un univers fantastique sous le nom de Cid Kagenou. Il décide alors de réaliser son ambition en créant une organisation secrète fictive, l'Ordre des Ombres, et invente l'existence d'un mystérieux culte qu'il prétend combattre. À sa grande surprise, ses histoires imaginaires semblent correspondre à une véritable conspiration. Tandis que ses subordonnées prennent ses paroles très au sérieux, Cid poursuit son jeu de rôle sans mesurer pleinement l'ampleur des événements qu'il déclenche."
+  },
+  {
+    "id": 28,
+    "nom": "Classroom of the Elite",
+    "annee": 2017,
+    "genres": ["Drame", "Psychologique", "Mystère", "Thriller", "Scolaire", "Stratégie"],
+    "synopsis": "Kiyotaka Ayanokōji intègre le prestigieux lycée de formation avancée de Tokyo, un établissement qui promet à ses élèves un avenir brillant à condition qu'ils respectent un système particulièrement exigeant. Répartis en différentes classes selon leurs résultats, les étudiants doivent accumuler des points pour obtenir des avantages et améliorer leur classement. Affecté à la classe D, considérée comme la moins performante, Kiyotaka rencontre Suzune Horikita, une élève déterminée à atteindre la classe supérieure, ainsi que Kikyo Kushida, dont la personnalité semble parfaitement adaptée à la vie scolaire. Derrière les cours et les examens se cachent cependant des épreuves complexes où la stratégie, la manipulation et les alliances jouent un rôle essentiel. Alors que ses camarades tentent de progresser, Kiyotaka dissimule soigneusement ses véritables capacités et ses intentions."
+  },
+  {
+    "id": 29,
+    "nom": "Code Geass",
+    "annee": 2006,
+    "genres": ["Action", "Drame", "Science-Fiction", "Psychologique", "Politique", "Mecha", "Thriller"],
+    "synopsis": "Dans un monde dominé par le Saint-Empire de Britannia, le Japon a perdu son indépendance et porte désormais le nom de Zone 11. Lelouch Lamperouge, un étudiant apparemment ordinaire, nourrit une profonde rancœur envers l'empire qui a bouleversé sa famille et son existence. Sa rencontre avec une mystérieuse jeune femme nommée C.C. lui accorde un pouvoir appelé Geass, capable de contraindre quiconque à obéir à un ordre. Il décide alors de prendre l'identité de Zero et de diriger une rébellion destinée à renverser le régime britannique. Grâce à son intelligence stratégique et à son nouveau pouvoir, Lelouch devient rapidement une figure centrale du conflit. Mais tandis que les alliances se forment et que les batailles s'intensifient, il doit affronter les conséquences de ses décisions et préserver les objectifs personnels qui motivent sa lutte."
+  },
+  {
+    "id": 30,
+    "nom": "Steins;Gate",
+    "annee": 2011,
+    "genres": ["Science-Fiction", "Thriller", "Mystère", "Psychologique", "Drame", "Voyage Temporel"],
+    "synopsis": "Rintarō Okabe, un étudiant excentrique qui se fait appeler un scientifique fou, dirige un petit laboratoire consacré à des inventions improbables. Avec ses amis, il découvre par accident un moyen d'envoyer des messages vers le passé grâce à un téléphone modifié et à un four à micro-ondes. Ce qui commence comme une expérience amusante attire progressivement l'attention d'organisations mystérieuses et révèle des conséquences inattendues sur le cours du temps. Chaque modification du passé semble entraîner de nouvelles réalités, parfois très différentes de celle qu'Okabe connaît. Alors que les événements lui échappent peu à peu, il doit comprendre les règles de ce phénomène et trouver un moyen de protéger ses proches. Entre science, mystère et relations humaines, ses découvertes le conduisent à affronter les limites de ses propres expériences."
+  },
+  {
+    "id": 31,
+    "nom": "Psycho-Pass",
+    "annee": 2012,
+    "genres": ["Action", "Science-Fiction", "Policier", "Psychologique", "Thriller", "Mystère"]
+  },
+  {
+    "id": 32,
+    "nom": "Erased",
+    "annee": 2016,
+    "genres": ["Mystère", "Thriller", "Drame", "Psychologique", "Surnaturel", "Voyage Temporel"]
+  },
+  {
+    "id": 33,
+    "nom": "Parasyte",
+    "annee": 2014,
+    "genres": ["Action", "Horreur", "Science-Fiction", "Psychologique", "Drame", "Seinen"],
+    "synopsis": "Une nuit, des organismes inconnus arrivent sur Terre et prennent possession du corps de leurs victimes afin de se mêler à la population humaine. L'un d'eux tente de s'introduire dans le corps de Shinichi Izumi, un lycéen ordinaire, mais échoue à atteindre son cerveau et se retrouve limité à son bras droit. Contraints de cohabiter, les deux êtres développent une relation aussi étrange que nécessaire à leur survie. Shinichi découvre progressivement que d'autres parasites se cachent parmi les humains et représentent une menace pour la société. Tandis qu'il cherche à protéger ses proches, sa vision de l'humanité et de la vie évolue au contact de son compagnon. Entre affrontements, interrogations philosophiques et lutte pour la survie, il doit trouver un équilibre entre sa nature humaine et cette présence étrangère."
+  },
+  {
+    "id": 34,
+    "nom": "Mob Psycho 100",
+    "annee": 2016,
+    "genres": ["Action", "Comédie", "Surnaturel", "Psychologique", "Drame", "Shōnen"],
+    "synopsis": "Shigeo Kageyama, surnommé Mob, est un collégien discret qui possède des pouvoirs psychiques extraordinaires. Capable de déplacer des objets et de libérer une énergie considérable, il préfère pourtant mener une vie normale et cherche surtout à progresser sur le plan personnel. Pour apprendre à maîtriser ses capacités, il travaille auprès de Reigen Arataka, un homme qui se présente comme un exorciste professionnel malgré l'absence de pouvoirs surnaturels. Ensemble, ils interviennent dans des affaires impliquant des esprits et des phénomènes inexpliqués. Mais Mob doit également faire face aux difficultés ordinaires de l'adolescence : se faire des amis, gagner en confiance et comprendre ses émotions. Lorsque ses sentiments atteignent un certain seuil, ses pouvoirs deviennent particulièrement difficiles à contrôler, l'obligeant à trouver sa propre définition de la force."
+  },
+  {
+    "id": 35,
+    "nom": "One Punch Man",
+    "annee": 2015,
+    "genres": ["Action", "Comédie", "Science-Fiction", "Super-héros", "Parodie", "Shōnen"]
+  },
+  {
+    "id": 36,
+    "nom": "Chainsaw Man",
+    "annee": 2022,
+    "genres": ["Action", "Aventure", "Horreur", "Drame", "Surnaturel", "Comédie", "Shōnen"],
+    "synopsis": "Dans un monde où les peurs humaines donnent naissance à des démons, Denji tente simplement de survivre en remboursant les dettes laissées par son père. Accompagné de Pochita, un démon-tronçonneuse devenu son unique compagnon, il accepte des contrats dangereux pour gagner de quoi vivre. Mais une trahison bouleverse son existence et lui permet de fusionner avec Pochita, devenant ainsi un être capable de transformer son corps en tronçonneuses. Recueilli par Makima, une mystérieuse responsable de la Sécurité publique, Denji rejoint une organisation chargée de traquer les démons qui menacent la population. Pour la première fois, il découvre la possibilité d'avoir un quotidien plus confortable, mais aussi des relations humaines complexes. Derrière ses rêves modestes se cache désormais une vie faite de combats, de manipulations et de choix difficiles."
+  },
+  {
+    "id": 37,
+    "nom": "Fire Force",
+    "annee": 2019,
+    "genres": ["Action", "Science-Fiction", "Surnaturel", "Mystère", "Drame", "Shōnen"],
+    "synopsis": "Dans un monde où des personnes peuvent soudainement s'embraser et devenir des créatures appelées Infernaux, des brigades spécialisées interviennent pour mettre fin à ces phénomènes. Shinra Kusakabe, un jeune homme capable de propulser ses pieds grâce à des flammes, rejoint la huitième brigade spéciale de la Fire Force. Surnommé le Démon à cause de son sourire nerveux et d'un tragique événement de son enfance, il souhaite devenir un héros et découvrir la vérité sur l'incendie qui a bouleversé sa famille. Aux côtés de ses nouveaux coéquipiers, il affronte des Infernaux tout en enquêtant sur une mystérieuse organisation liée à leur apparition. Peu à peu, les interventions de la brigade révèlent l'existence d'un complot bien plus vaste, susceptible de remettre en question les fondements mêmes de leur monde."
+  },
+  {
+    "id": 38,
+    "nom": "Dr. Stone",
+    "annee": 2019,
+    "genres": ["Aventure", "Science-Fiction", "Comédie", "Survie", "Mystère", "Shōnen"],
+    "synopsis": "Un phénomène mystérieux transforme soudainement l'humanité entière en statues de pierre. Plusieurs millénaires plus tard, Senku Ishigami, un adolescent passionné de sciences, parvient à se libérer de sa pétrification. Il découvre alors une planète où la nature a repris ses droits et où toute civilisation humaine a disparu. Refusant d'abandonner les connaissances accumulées au fil des siècles, Senku décide de reconstruire la société grâce à la science. Avec l'aide de Taiju, son ami d'enfance, puis d'autres survivants, il entreprend de recréer progressivement les technologies modernes à partir de ressources naturelles. Mais tous ne partagent pas sa vision du nouveau monde : certains souhaitent bâtir une société radicalement différente. Entre expériences scientifiques, découvertes et conflits idéologiques, Senku doit faire renaître la civilisation tout en perçant le mystère de la pétrification."
+  },
+  {
+    "id": 39,
+    "nom": "The Promised Neverland",
+    "annee": 2019,
+    "genres": ["Mystère", "Thriller", "Psychologique", "Horreur", "Drame", "Survie", "Shōnen"]
+  },
+  {
+    "id": 40,
+    "nom": "Made in Abyss",
+    "annee": 2017,
+    "genres": ["Aventure", "Fantasy", "Mystère", "Drame", "Science-Fiction", "Survie", "Horreur"]
+  },
+  {
+    "id": 41,
+    "nom": "Vinland Saga",
+    "annee": 2019,
+    "genres": ["Action", "Aventure", "Drame", "Historique", "Guerre", "Psychologique", "Seinen"]
+  },
+  {
+    "id": 42,
+    "nom": "Kingdom",
+    "annee": 2012,
+    "genres": ["Action", "Drame", "Historique", "Guerre", "Stratégie", "Militaire", "Seinen"]
+  },
+  {
+    "id": 43,
+    "nom": "Berserk",
+    "annee": 1997,
+    "genres": ["Action", "Aventure", "Drame", "Fantasy", "Horreur", "Psychologique", "Tragédie", "Seinen"]
+  },
+  {
+    "id": 44,
+    "nom": "Claymore",
+    "annee": 2007,
+    "genres": ["Action", "Aventure", "Fantasy", "Horreur", "Drame", "Surnaturel", "Shōnen"]
+  },
+  {
+    "id": 45,
+    "nom": "Akame ga Kill!",
+    "annee": 2014,
+    "genres": ["Action", "Aventure", "Drame", "Fantasy", "Tragédie", "Politique", "Shōnen"],
+    "synopsis": "Dans un empire rongé par la corruption, la pauvreté et les abus de pouvoir, Tatsumi quitte son village natal pour rejoindre la capitale et gagner suffisamment d'argent afin d'aider les siens. Il découvre rapidement que les apparences trompeuses de la ville cachent une réalité particulièrement brutale. Recueilli par Night Raid, un groupe d'assassins engagé dans la lutte contre le gouvernement impérial, il apprend que cette organisation cherche à renverser le régime et à mettre fin aux injustices qui frappent la population. Ses membres utilisent des armes impériales aux capacités extraordinaires, chacune liée à un pouvoir particulier. En rejoignant leur combat, Tatsumi se retrouve confronté à des choix difficiles et à des adversaires redoutables. Dans cette guerre où chaque camp défend sa propre vision de la justice, personne ne peut être certain de sortir indemne."
+  },
+  {
+    "id": 46,
+    "nom": "Fate/Zero",
+    "annee": 2011,
+    "genres": ["Action", "Fantasy", "Magie", "Drame", "Surnaturel", "Tragédie"]
+  },
+  {
+    "id": 47,
+    "nom": "Fate/stay night: Unlimited Blade Works",
+    "annee": 2014,
+    "genres": ["Action", "Fantasy", "Magie", "Romance", "Drame", "Surnaturel"]
+  },
+  {
+    "id": 48,
+    "nom": "Noragami",
+    "annee": 2014,
+    "genres": ["Action", "Aventure", "Comédie", "Fantasy", "Surnaturel", "Drame", "Romance", "Shōnen"],
+    "synopsis": "Dans le Japon contemporain, les dieux vivent parmi les humains, mais tous ne bénéficient pas de la même reconnaissance. Yato est une divinité sans sanctuaire ni véritables fidèles, qui accepte de petits travaux pour quelques pièces dans l'espoir de devenir un jour célèbre. Sa rencontre avec Hiyori Iki, une lycéenne qui se retrouve capable de séparer son âme de son corps après un accident, bouleverse son quotidien. Pour l'aider à retrouver une vie normale, Yato fait appel à Yukine, un esprit transformé en arme divine qui devient son partenaire. Tous trois se retrouvent alors impliqués dans des affaires liées aux esprits errants, aux dieux et aux créatures surnaturelles appelées Ayakashi. Derrière les missions parfois anodines de Yato se cachent des secrets liés à son passé et aux relations complexes entre les divinités."
+  },
+  {
+    "id": 49,
+    "nom": "Blue Exorcist",
+    "annee": 2011,
+    "genres": ["Action", "Fantasy", "Surnaturel", "Démon", "Drame", "Comédie", "Shōnen"]
+  },
+  {
+    "id": 50,
+    "nom": "Soul Eater",
+    "annee": 2008,
+    "genres": ["Action", "Aventure", "Comédie", "Fantasy", "Surnaturel", "Horreur", "Shōnen"],
+    "synopsis": "À Death City, l'école Shibusen forme des combattants chargés de protéger le monde contre les forces maléfiques. Son fonctionnement repose sur des duos particuliers : un meister, capable de manier une arme humaine, et une arme vivante qui peut prendre une forme de combat. Maka Albarn, une jeune meister déterminée, fait équipe avec Soul Evans, qui rêve de devenir une arme ultime appelée Death Scythe. Pour atteindre cet objectif, ils doivent collecter les âmes de criminels et de créatures maléfiques tout en progressant à l'académie. D'autres élèves, comme Black Star et Tsubaki ou Death the Kid et les sœurs Thompson, poursuivent la même ambition avec leurs propres méthodes. Mais une menace ancienne commence à se réveiller, mettant en danger l'équilibre du monde. Les étudiants devront alors dépasser leurs limites et apprendre à faire confiance à leurs partenaires."
+  },
+  {
+    "id": 51,
+    "nom": "Magi: The Labyrinth of Magic",
+    "annee": 2012,
+    "genres": ["Action", "Aventure", "Fantasy", "Magie", "Drame", "Comédie", "Shōnen"],
+    "synopsis": "Dans un monde inspiré des contes des Mille et Une Nuits, d'étranges édifices appelés donjons apparaissent aux quatre coins du globe. Ceux qui parviennent à les conquérir obtiennent d'immenses richesses et le pouvoir d'un djinn. Aladdin, un jeune garçon mystérieux accompagné d'une flûte abritant un puissant génie, parcourt le monde à la recherche de réponses sur ses origines. Sa rencontre avec Alibaba Saluja, un jeune homme qui rêve de conquérir un donjon pour changer son destin, marque le début d'une aventure inattendue. Rejoints par Morgiana, une ancienne esclave dotée d'une force exceptionnelle, ils découvrent progressivement les enjeux politiques et magiques qui façonnent leur monde. Derrière les trésors des donjons se cachent des forces capables d'influencer le destin des nations et de bouleverser l'équilibre du pouvoir."
+  }
+,
+  {
+    "id": 52,
+    "nom": "The Seven Deadly Sins",
+    "annee": 2014,
+    "genres": ["Action", "Aventure", "Fantasy", "Magie", "Romance", "Comédie", "Shōnen"],
+    "synopsis": "Dans le royaume de Liones, la princesse Elizabeth part à la recherche des Seven Deadly Sins, un groupe de chevaliers légendaires autrefois accusés d'avoir tenté de renverser le pouvoir royal. Depuis leur disparition, les Chevaliers sacrés ont pris le contrôle du royaume et imposent leur autorité à la population. Espérant mettre fin à cette situation, Elizabeth découvre une taverne ambulante tenue par Meliodas, un jeune homme à l'apparence insouciante qui se révèle être le chef des sept guerriers recherchés. Ensemble, ils entreprennent de retrouver les anciens membres du groupe, dispersés aux quatre coins du royaume. Chacun possède des pouvoirs et une personnalité uniques, mais leur passé commun dissimule des secrets qui dépassent leur ancienne condamnation. Leur réunion marque le début d'une aventure mêlant magie, combats et révélations."
+  },
+  {
+    "id": 53,
+    "nom": "Ragna Crimson",
+    "annee": 2023,
+    "genres": ["Action", "Fantasy", "Drame", "Surnaturel", "Vampire", "Shōnen"],
+    "synopsis": "Dans un monde où les dragons dominent les cieux et menacent les populations humaines, seuls les chasseurs de dragons peuvent s'opposer à leur puissance. Ragna, un jeune combattant considéré comme peu prometteur, accompagne la talentueuse chasseuse Leonica malgré ses propres limites. Son existence bascule lorsqu'il reçoit la visite d'une mystérieuse version future de lui-même, porteuse de souvenirs d'un avenir dévastateur. Grâce à cette rencontre, Ragna obtient une puissance extraordinaire et une connaissance des événements à venir. Désormais déterminé à empêcher la domination des dragons, il s'allie à Crimson, un être énigmatique qui possède ses propres raisons de vouloir les éliminer. Leur objectif les entraîne dans une guerre impitoyable contre les puissants dragons de sang royal, où chaque victoire exige de repousser les limites de leurs capacités."
+  },
+  {
+    "id": 54,
+    "nom": "Frieren",
+    "annee": 2023,
+    "genres": ["Aventure", "Fantasy", "Drame", "Comédie", "Magie", "Philosophique"],
+    "synopsis": "Après avoir vaincu le Roi des Démons aux côtés de ses compagnons, l'elfe Frieren voit son groupe se séparer au terme de dix années d'aventures. Dotée d'une longévité exceptionnelle, elle considère cette période comme une étape relativement courte de son existence et ne mesure pas pleinement l'importance des liens qu'elle a tissés. Des années plus tard, la disparition de l'un de ses anciens compagnons l'amène à réfléchir à sa relation avec les humains et au temps qu'elle a passé à leurs côtés. Décidée à mieux comprendre leurs émotions et leurs souvenirs, elle entreprend un nouveau voyage vers les lieux autrefois visités par son groupe. Accompagnée de Fern, une jeune magicienne qu'elle forme, puis de Stark, un guerrier courageux, Frieren découvre progressivement une autre manière de considérer les rencontres, l'amitié et le passage du temps."
+  },
+  {
+    "id": 55,
+    "nom": "Delicious in Dungeon",
+    "annee": 2024,
+    "genres": ["Aventure", "Comédie", "Fantasy", "Cuisine", "Magie", "Survie"],
+    "synopsis": "Après une expédition qui tourne mal dans un immense donjon, Laios et ses compagnons perdent leur équipement et doivent abandonner leur exploration. Plus grave encore, sa sœur Falin reste prisonnière des profondeurs après avoir utilisé une magie de téléportation pour sauver le groupe. Déterminé à la retrouver avant qu'il ne soit trop tard, Laios décide de repartir immédiatement, malgré le manque de provisions et de ressources. Pour éviter de perdre du temps à chercher de la nourriture à l'extérieur, il propose une solution inhabituelle : cuisiner et manger les monstres rencontrés dans le donjon. Accompagnés de Marcille, une magicienne elfe, et de Chilchuck, un spécialiste des pièges, ils font appel à Senshi, un nain expérimenté dans la préparation de créatures fantastiques. Leur progression devient une aventure culinaire aussi surprenante que dangereuse."
+  },
+  {
+    "id": 56,
+    "nom": "Goblin Slayer",
+    "annee": 2018,
+    "genres": ["Action", "Aventure", "Fantasy", "Horreur", "Drame", "Dark Fantasy"],
+    "synopsis": "Dans un monde fantastique où les aventuriers acceptent des missions auprès d'une guilde, une jeune prêtresse rejoint un groupe débutant pour sa première expédition. Leur objectif semble simple : éliminer des gobelins, des créatures généralement considérées comme des adversaires mineurs. Mais la mission tourne rapidement au désastre et lui fait découvrir la véritable dangerosité de ces monstres. Elle est sauvée par un aventurier aussi mystérieux que spécialisé, connu uniquement sous le nom de Goblin Slayer. Contrairement aux autres combattants, il consacre toute son existence à traquer et éliminer les gobelins, étudiant leurs habitudes et préparant minutieusement chacune de ses interventions. La prêtresse décide de l'accompagner dans ses missions et découvre progressivement un univers où même les créatures les plus sous-estimées peuvent représenter une menace sérieuse."
+  },
+  {
+    "id": 57,
+    "nom": "Grimgar of Fantasy and Ash",
+    "annee": 2016,
+    "genres": ["Action", "Aventure", "Fantasy", "Drame", "Survie", "Isekai"],
+    "synopsis": "Un groupe de jeunes gens se réveille dans un monde fantastique sans aucun souvenir de son passé. Incapables de comprendre comment ils sont arrivés là, ils découvrent qu'ils doivent devenir soldats volontaires pour gagner de quoi survivre. Haruhiro, qui se retrouve à la tête d'un petit groupe inexpérimenté, choisit de devenir voleur et s'entoure de plusieurs compagnons aux compétences complémentaires. Contrairement aux héros habituels des récits fantastiques, ils ne disposent d'aucun pouvoir exceptionnel et peinent à vaincre les créatures les plus faibles. Chaque combat exige une préparation minutieuse et comporte des risques importants. Au fil de leurs missions, les membres du groupe apprennent à coopérer, à surmonter leurs différences et à faire face aux difficultés de leur nouvelle existence. Leur progression est lente, mais chaque victoire représente une étape essentielle vers la survie."
+  },
+  {
+    "id": 58,
+    "nom": "DanMachi",
+    "annee": 2015,
+    "genres": ["Action", "Aventure", "Fantasy", "Romance", "Comédie", "Magie"],
+    "synopsis": "Dans la cité d'Orario, les dieux ont choisi de descendre parmi les humains et de former des familles auxquelles ils accordent des capacités extraordinaires. Bell Cranel, un jeune aventurier inexpérimenté, rêve de devenir un héros en explorant le gigantesque Donjon situé sous la ville. Il appartient à la modeste Familia d'Hestia, une déesse qui ne possède qu'un seul membre et dispose de très peu de ressources. Après une rencontre qui bouleverse son parcours, Bell commence à progresser à une vitesse inhabituelle, attirant l'attention de nombreuses personnes. Ses explorations le confrontent à des monstres toujours plus dangereux, mais aussi aux rivalités entre Familias et aux mystères qui entourent le Donjon. Accompagné de nouveaux alliés, il cherche à devenir plus fort tout en découvrant ce que signifie réellement être un aventurier."
+  },
+  {
+    "id": 59,
+    "nom": "Arifureta",
+    "annee": 2019,
+    "genres": ["Action", "Aventure", "Fantasy", "Romance", "Magie", "Isekai"],
+    "synopsis": "Hajime Nagumo est un lycéen ordinaire invoqué avec toute sa classe dans un monde fantastique afin de combattre une menace qui pèse sur l'humanité. Contrairement à ses camarades, qui obtiennent des capacités puissantes destinées au combat, il reçoit une compétence de transmutation considérée comme peu utile. Lors d'une expédition dans un immense labyrinthe, une trahison le laisse isolé dans les profondeurs du donjon. Contraint de survivre dans un environnement hostile, Hajime doit exploiter son intelligence et sa capacité à transformer les matériaux pour trouver un moyen de remonter à la surface. Cette épreuve le pousse à évoluer radicalement et à développer de nouvelles compétences. Au fil de son parcours, il rencontre des compagnons qui rejoignent son voyage, tandis qu'il cherche à retrouver son monde d'origine et à comprendre les secrets de cet univers."
+  },
+  {
+    "id": 60,
+    "nom": "Tsukimichi: Moonlit Fantasy",
+    "annee": 2021,
+    "genres": ["Action", "Aventure", "Comédie", "Fantasy", "Magie", "Isekai"],
+    "synopsis": "Makoto Misumi est invoqué dans un monde fantastique afin d'y devenir un héros, mais la déesse chargée de son invocation le rejette rapidement en raison de son apparence. Privé de ce statut, il est envoyé aux confins du monde, loin des sociétés humaines. Malgré ce départ difficile, Makoto découvre qu'il possède une puissance magique exceptionnelle et qu'il peut communiquer avec différentes espèces non humaines. Au fil de ses rencontres, il noue des liens avec Tomoe, une puissante dragonne, et Mio, une araignée géante redoutable, qui deviennent ses premières alliées. Ensemble, ils fondent progressivement une communauté réunissant des créatures rejetées par les humains. Tandis que Makoto tente de comprendre les règles de ce nouvel univers, il se retrouve impliqué dans des conflits politiques et des rivalités qui dépassent largement son projet initial."
+  },
+  {
+    "id": 61,
+    "nom": "The World's Finest Assassin Gets Reincarnated in Another World",
+    "annee": 2021,
+    "genres": ["Action", "Aventure", "Fantasy", "Magie", "Isekai", "Drame"],
+    "synopsis": "Considéré comme le plus grand assassin de son époque, un homme âgé accepte une dernière mission avant de prendre sa retraite. Mais sa mort ne marque pas la fin de son existence : une déesse lui propose de se réincarner dans un monde fantastique afin d'accomplir une tâche bien précise. Il devra éliminer le héros de ce monde, dont les actions futures sont censées provoquer une catastrophe majeure. Renaissant sous le nom de Lugh Tuatha Dé, au sein d'une prestigieuse famille d'assassins, il conserve les connaissances et l'expérience de sa vie précédente. Grâce à son éducation, à la magie et aux techniques transmises par sa famille, il prépare méthodiquement sa mission. Pour atteindre son objectif, il rassemble des alliés aux talents complémentaires et développe des stratégies adaptées à ce nouvel univers, où chaque décision peut influencer le destin du monde."
+  },
+  {
+    "id": 62,
+    "nom": "Cautious Hero",
+    "annee": 2019,
+    "genres": ["Action", "Aventure", "Comédie", "Fantasy", "Isekai", "Parodie"],
+    "synopsis": "Pour sauver le monde de Gaeabrande, menacé par un puissant Roi Démon, la déesse Ristarte invoque un héros depuis une autre dimension. Son choix se porte sur Seiya Ryuguin, un combattant doté de caractéristiques exceptionnellement élevées. Pourtant, malgré ses capacités, Seiya refuse de prendre le moindre risque : il achète des réserves considérables, s'entraîne sans relâche et prépare systématiquement plusieurs solutions avant d'affronter un adversaire. Cette prudence extrême complique les missions de Ristarte, qui peine à faire avancer leur quête. Derrière les situations comiques provoquées par son comportement, leur voyage révèle progressivement les dangers réels de ce monde et les raisons qui expliquent la méfiance du héros. Entre préparatifs interminables, combats spectaculaires et révélations inattendues, le duo doit apprendre à avancer malgré leurs méthodes opposées."
+  },
+  {
+    "id": 63,
+    "nom": "Saga of Tanya the Evil",
+    "annee": 2017,
+    "genres": ["Action", "Fantasy", "Guerre", "Militaire", "Isekai", "Drame", "Psychologique"],
+    "synopsis": "Dans un monde où la magie détermine la place de chacun dans la société, les personnes incapables de l'utiliser sont considérées comme des anomalies. Mash Burnedead vit pourtant paisiblement à l'écart du monde avec son père adoptif, consacrant son temps à l'entraînement physique et aux pâtisseries. Dépourvu de pouvoirs magiques, il possède en revanche une force physique extraordinaire. Lorsque son secret risque de compromettre leur tranquillité, il est contraint d'intégrer l'académie de magie d'Easton. Pour protéger sa famille, il doit atteindre le rang de Divine Visionary, tout en dissimulant son absence de magie dans un établissement où presque tout repose sur elle. Une aventure qui détourne les codes de la fantasy avec un humour décalé."
+  },
+  {
+    "id": 64,
+    "nom": "The Misfit of Demon King Academy",
+    "annee": 2020,
+    "genres": ["Action", "Fantasy", "Magie", "Surnaturel", "École", "Démon"],
+    "synopsis": "Après des siècles de guerre entre les humains, les démons et les esprits, le roi démon Anos Voldigoad décide de sacrifier sa propre existence pour mettre fin au conflit et permettre aux différentes races de vivre en paix. Il promet de se réincarner dans un monde où son retour sera possible. Deux mille ans plus tard, il renaît effectivement, mais découvre que l'histoire de son époque a été déformée et que ses véritables exploits ont été oubliés. Pour retrouver sa place, il intègre l'Académie du Roi Démon, un établissement chargé d'identifier le successeur du souverain légendaire. Pourtant, malgré sa puissance écrasante, Anos est considéré comme un élève inadapté par les responsables de l'école. Entouré de nouveaux alliés, il cherche à comprendre ce qui s'est passé durant son absence et à rétablir la vérité sur son héritage."
+  },
+  {
+    "id": 65,
+    "nom": "Mashle",
+    "annee": 2023,
+    "genres": ["Action", "Comédie", "Fantasy", "Magie", "Parodie", "École", "Shōnen"],
+    "synopsis": "Dans un futur où la magie est devenue une discipline scientifique enseignée dans des établissements spécialisés, les élèves sont répartis selon leurs résultats et leurs aptitudes. Tatsuya Shiba intègre la prestigieuse Première École de magie aux côtés de sa sœur Miyuki, reconnue pour ses capacités exceptionnelles. Classé parmi les élèves les moins doués selon les critères de l'établissement, Tatsuya semble pourtant cacher des compétences qui dépassent largement les évaluations habituelles. Grâce à ses connaissances techniques, son sang-froid et ses talents stratégiques, il se retrouve impliqué dans des rivalités scolaires, des conflits entre organisations et des enjeux politiques qui menacent l'équilibre de leur société."
+  },
+  {
+    "id": 66,
+    "nom": "The Irregular at Magic High School",
+    "annee": 2014,
+    "genres": ["Action", "Science-Fiction", "Fantasy", "Magie", "Romance", "École"],
+    "synopsis": "Dans un futur où la magie est devenue une discipline scientifique enseignée dans des établissements spécialisés, les élèves sont répartis selon leurs résultats et leurs aptitudes. Tatsuya Shiba intègre la prestigieuse Première École de magie aux côtés de sa sœur Miyuki, reconnue pour ses capacités exceptionnelles. Classé parmi les élèves les moins doués selon les critères de l'établissement, Tatsuya semble pourtant cacher des compétences qui dépassent largement les évaluations habituelles. Grâce à ses connaissances techniques, son sang-froid et ses talents stratégiques, il se retrouve impliqué dans des rivalités scolaires, des conflits entre organisations et des enjeux politiques qui menacent l'équilibre de leur société."
+  },
+  {
+    "id": 67,
+    "nom": "A Certain Magical Index",
+    "annee": 2008,
+    "genres": ["Action", "Science-Fiction", "Fantasy", "Magie", "Surnaturel", "Drame"],
+    "synopsis": "À Academy City, une métropole consacrée à la recherche scientifique, des étudiants développent des capacités surnaturelles grâce à des programmes expérimentaux. Touma Kamijou, un lycéen apparemment ordinaire, possède cependant une aptitude singulière dans sa main droite : Imagine Breaker, capable d'annuler les phénomènes surnaturels, qu'ils soient scientifiques ou magiques. Sa vie bascule lorsqu'il rencontre Index, une jeune fille qui détient dans sa mémoire une immense collection de connaissances magiques et que plusieurs organisations cherchent à capturer. En tentant de la protéger, Touma se retrouve au cœur d'un affrontement entre deux mondes que tout semble opposer : la science et la magie."
+  },
+  {
+    "id": 68,
+    "nom": "D.Gray-man",
+    "annee": 2006,
+    "genres": ["Action", "Aventure", "Fantasy", "Surnaturel", "Drame", "Horreur", "Shōnen"],
+    "synopsis": "Dans un monde sombre marqué par les apparitions d'étranges créatures appelées Akuma, une organisation secrète lutte pour protéger l'humanité. Ces monstres sont créés par le Comte Millénaire, qui exploite la douleur des personnes endeuillées pour transformer leurs proches disparus en armes. Allen Walker, un jeune exorciste doté d'un œil capable de percevoir les âmes prisonnières des Akuma, rejoint la Congrégation de l'Ombre. Grâce à son Innocence, une mystérieuse force capable de détruire ces créatures, il participe à une guerre dont les enjeux dépassent peu à peu sa mission initiale. Entre secrets, alliances fragiles et passé trouble, Allen doit comprendre la véritable nature de l'ennemi qu'il combat."
+  },
+  {
+    "id": 69,
+    "nom": "Katekyo Hitman Reborn!",
+    "annee": 2006,
+    "genres": ["Action", "Comédie", "Arts Martiaux", "Surnaturel", "Drame", "Shōnen"],
+    "synopsis": "Tsuna Sawada est un collégien maladroit qui manque de confiance en lui et peine à réussir aussi bien à l'école que dans sa vie quotidienne. Son existence change lorsqu'un étrange bébé nommé Reborn se présente chez lui. Derrière son apparence innocente se cache un tueur à gages chargé de faire de Tsuna le prochain chef de la famille Vongola, une puissante organisation mafieuse. Pour le préparer à cette destinée, Reborn utilise des méthodes d'entraînement aussi surprenantes que dangereuses. Peu à peu, Tsuna se retrouve entouré de compagnons aux personnalités très différentes et entraîné dans des affrontements qui l'obligent à dépasser ses limites."
+  },
+  {
+    "id": 70,
+    "nom": "Assassination Classroom",
+    "annee": 2015,
+    "genres": ["Action", "Comédie", "Drame", "Science-Fiction", "Scolaire", "Shōnen"],
+    "synopsis": "La classe 3-E du collège Kunugigaoka accueille un professeur pour le moins inhabituel : une créature capable de se déplacer à une vitesse extraordinaire, qui affirme avoir détruit une partie de la Lune et menace de faire subir le même sort à la Terre. Pourtant, cet être étrange accepte de devenir leur enseignant et donne à ses élèves une mission impossible : l'assassiner avant la fin de l'année scolaire. Tandis que le gouvernement met à leur disposition différents moyens pour tenter de l'éliminer, les collégiens découvrent un professeur étonnamment attentif à leurs difficultés. Entre cours, entraînements et tentatives d'assassinat, la classe apprend progressivement à développer ses talents et à trouver sa propre voie."
+  },
+  {
+    "id": 71,
+    "nom": "Haikyuu!!",
+    "annee": 2014,
+    "genres": ["Sport", "Comédie", "Drame", "Scolaire", "Shōnen"],
+    "synopsis": "Depuis qu'il a découvert un joueur de petite taille capable de dominer un terrain de volley-ball, Shoyo Hinata rêve de devenir un grand joueur malgré son manque d'expérience et sa petite stature. Lorsqu'il rejoint le lycée Karasuno, il retrouve Tobio Kageyama, un passeur talentueux avec lequel il avait perdu un match important au collège. Malgré leur rivalité et leurs caractères opposés, les deux joueurs développent une combinaison offensive redoutable. Entourés de coéquipiers aux parcours et aux ambitions variés, ils cherchent à redonner à Karasuno sa place parmi les meilleures équipes du pays. Chaque rencontre devient une occasion de progresser, de renforcer leur esprit d'équipe et de se rapprocher de leur objectif."
+  },
+  {
+    "id": 72,
+    "nom": "Blue Lock",
+    "annee": 2022,
+    "genres": ["Sport", "Drame", "Psychologique", "Compétition", "Shōnen"],
+    "synopsis": "Après l'élimination du Japon lors de la Coupe du monde, la Fédération japonaise lance un projet radical destiné à créer le meilleur attaquant du monde. Trois cents jeunes footballeurs prometteurs sont réunis dans un centre d'entraînement isolé appelé Blue Lock. Sous la direction de Jinpachi Ego, ils doivent s'affronter dans une série d'épreuves où seul le plus performant pourra poursuivre son rêve de devenir l'avant-centre de l'équipe nationale. Yoichi Isagi, un joueur qui doute encore de ses propres capacités, rejoint ce programme avec l'espoir de découvrir ce qui lui manque pour atteindre le sommet. Dans cet environnement où la compétition prime sur la coopération, chaque participant doit repousser ses limites et affirmer son individualité."
+  },
+  {
+    "id": 73,
+    "nom": "Kuroko's Basketball",
+    "annee": 2012,
+    "genres": ["Sport", "Comédie", "Drame", "Scolaire", "Shōnen"],
+    "synopsis": "Le lycée Seirin vient de créer son club de basket-ball et compte sur ses nouveaux joueurs pour se faire une place parmi les meilleures équipes du pays. Taiga Kagami, un joueur talentueux revenu des États-Unis, rencontre Tetsuya Kuroko, un garçon discret dont la présence semble passer inaperçue sur le terrain. Kuroko révèle pourtant avoir été le sixième joueur fantôme de la célèbre Génération des Miracles, une équipe de collégiens aux capacités exceptionnelles. Ensemble, ils décident de relever un défi ambitieux : vaincre chacun des anciens coéquipiers de Kuroko et prouver que le travail d'équipe peut rivaliser avec les talents individuels. Leur parcours les entraîne dans des matchs toujours plus intenses."
+
+  },
+  {
+    "id": 74,
+    "nom": "Slam Dunk",
+    "annee": 1993,
+    "genres": ["Sport", "Comédie", "Drame", "Scolaire", "Shōnen"],
+    "synopsis": "Sakuragi Hanamichi, un lycéen connu pour son tempérament impulsif et ses nombreux échecs amoureux, rejoint le club de basket de son établissement pour impressionner Haruko Akagi, une jeune fille passionnée par ce sport. Au départ totalement novice, il découvre progressivement les règles du jeu et développe un véritable intérêt pour le basket. Son caractère explosif le conduit souvent à entrer en conflit avec ses coéquipiers, notamment le talentueux Kaede Rukawa. Sous la direction de leur entraîneur, l'équipe du lycée Shohoku commence à se construire une réputation et vise les grandes compétitions. Entre rivalités, entraînements et matchs décisifs, Sakuragi découvre peu à peu ce que signifie réellement faire partie d'une équipe."
+  },
+  {
+    "id": 75,
+    "nom": "Hajime no Ippo",
+    "annee": 2000,
+    "genres": ["Sport", "Action", "Drame", "Arts Martiaux", "Comédie", "Shōnen"],
+    "synopsis": "Ippo Makunouchi est un lycéen discret qui aide régulièrement sa mère dans leur entreprise familiale de pêche. Souvent victime des moqueries de ses camarades, il manque de confiance en lui et ne sait pas comment changer sa situation. Un jour, après avoir été secouru par Mamoru Takamura, un boxeur professionnel, il découvre l'univers de la boxe et décide de s'entraîner dans son club. Fasciné par la puissance et la détermination des combattants, Ippo se fixe un objectif : devenir un boxeur professionnel et comprendre ce que signifie être fort. Guidé par son entraîneur et entouré de partenaires aux personnalités variées, il progresse à travers des combats qui mettent à l'épreuve sa technique, son courage et sa persévérance."
+  },
+  {
+    "id": 76,
+    "nom": "Initial D",
+    "annee": 1998,
+    "genres": ["Sport", "Action", "Drame", "Course Automobile", "Seinen"],
+    "synopsis": "Takumi Fujiwara est un lycéen qui livre du tofu pour le commerce familial au volant d'une ancienne Toyota AE86. À force de parcourir chaque matin les routes sinueuses du mont Akina, il a développé sans le savoir une maîtrise exceptionnelle de la conduite. Sa routine change lorsque des équipes de pilotes venues de différentes régions commencent à s'affronter sur les routes de montagne. Repéré après une course impressionnante, Takumi se retrouve entraîné dans le monde des courses de rue. Malgré son manque d'intérêt initial pour la compétition, il découvre progressivement ses propres capacités et doit affronter des pilotes expérimentés, chacun possédant son style et ses techniques."
+  },
+  {
+    "id": 77,
+    "nom": "Your Lie in April",
+    "annee": 2014,
+    "genres": ["Drame", "Romance", "Musique", "Psychologique", "Slice of Life", "Tragédie"],
+    "synopsis": "Kōsei Arima était autrefois un jeune pianiste prodige, capable d'interpréter les morceaux les plus difficiles avec une précision remarquable. Depuis la disparition de sa mère, il est cependant incapable d'entendre correctement les notes lorsqu'il joue, ce qui l'éloigne progressivement de la musique. Sa rencontre avec Kaori Miyazono, une violoniste pleine d'énergie dont l'interprétation libre contraste avec son ancien style rigoureux, bouleverse son quotidien. Grâce à elle, Kōsei accepte peu à peu de remonter sur scène et de redécouvrir le plaisir de jouer. Entre musique, amitié et sentiments naissants, cette rencontre l'amène à affronter son passé et à envisager un avenir différent."
+  },
+  {
+    "id": 78,
+    "nom": "Clannad",
+    "annee": 2007,
+    "genres": ["Drame", "Romance", "Comédie", "Surnaturel", "Slice of Life"],
+    "synopsis": "Tomoya Okazaki est un lycéen désabusé qui traverse ses journées sans véritable objectif. Sa rencontre avec Nagisa Furukawa, une jeune fille timide qui souhaite relancer le club de théâtre de son établissement, l'amène progressivement à s'impliquer dans la vie des autres. En l'aidant à réaliser son projet, Tomoya fait la connaissance de plusieurs élèves confrontés à leurs propres difficultés familiales et personnelles. Ces rencontres transforment peu à peu sa vision du monde et lui permettent de créer des liens qu'il n'aurait jamais imaginés. À travers les relations, les épreuves et les changements qui accompagnent le passage à l'âge adulte, l'histoire explore l'importance de la famille, de l'amitié et des choix qui façonnent une vie."
+  },
+  {
+    "id": 79,
+    "nom": "Toradora!",
+    "annee": 2008,
+    "genres": ["Romance", "Comédie", "Drame", "Scolaire", "Slice of Life"],
+    "synopsis": "Ryūji Takasu est un lycéen au regard intimidant, mais dont la personnalité est en réalité douce et attentionnée. À la rentrée, il découvre qu'il est dans la même classe que Taiga Aisaka, une jeune fille de petite taille connue pour son tempérament explosif. Après une rencontre inattendue, ils découvrent chacun les sentiments que l'autre éprouve pour leur meilleur ami respectif. Ils décident alors de s'entraider pour conquérir le cœur des personnes qu'ils aiment. Mais à force de passer du temps ensemble, leurs relations deviennent plus complexes que prévu. Entre disputes, moments de complicité et malentendus, Ryūji et Taiga apprennent progressivement à mieux comprendre leurs propres sentiments."
+  },
+  {
+    "id": 80,
+    "nom": "Horimiya",
+    "annee": 2021,
+    "genres": ["Romance", "Comédie", "Drame", "Scolaire", "Slice of Life"],
+    "synopsis": "Au lycée, Kyōko Hori est appréciée pour ses résultats scolaires et sa personnalité sociable. En dehors des cours, elle mène pourtant une vie bien différente, consacrant beaucoup de temps aux tâches ménagères et à son petit frère. De son côté, Izumi Miyamura semble être un élève discret et réservé, mais son apparence change radicalement lorsqu'il quitte l'établissement. Leur rencontre en dehors du cadre scolaire leur permet de découvrir ces facettes cachées et de se rapprocher. Peu à peu, ils partagent leurs secrets et apprennent à connaître leurs camarades sous un autre jour. À travers les petits événements du quotidien, l'histoire suit l'évolution de leurs relations et les différentes formes que peut prendre l'amitié comme l'amour."
+  },
+  {
+    "id": 81,
+    "nom": "Kaguya-sama: Love Is War",
+    "annee": 2019,
+    "genres": ["Romance", "Comédie", "Psychologique", "Scolaire", "Slice of Life"],
+    "synopsis": "Au sein de la prestigieuse académie Shūchiin, Kaguya Shinomiya et Miyuki Shirogane occupent respectivement les postes de vice-présidente et de président du conseil des élèves. Tous deux sont brillants, fiers et secrètement amoureux l'un de l'autre. Pourtant, aucun ne veut avouer ses sentiments, convaincu que celui qui se déclarera le premier perdra l'avantage dans leur relation. Leur quotidien devient alors une succession de stratégies, de pièges et de manœuvres psychologiques destinés à pousser l'autre à faire le premier pas. Tandis que leurs amis assistent à ces affrontements sentimentaux souvent absurdes, Kaguya et Miyuki découvrent peu à peu les difficultés de communiquer sincèrement leurs émotions."
+  },
+  {
+    "id": 82,
+    "nom": "Fruits Basket",
+    "annee": 2019,
+    "genres": ["Romance", "Drame", "Comédie", "Fantasy", "Surnaturel", "Slice of Life"],
+    "synopsis": "Après avoir perdu sa mère, Tōru Honda tente de poursuivre ses études tout en vivant temporairement sous une tente. Sa rencontre avec la famille Sōma bouleverse son quotidien lorsqu'elle découvre leur étrange secret : certains de ses membres se transforment en animaux du zodiaque chinois lorsqu'ils sont enlacés par une personne du sexe opposé. Accueillie chez eux, Tōru fait la connaissance de plusieurs membres de cette famille marquée par une malédiction et des relations difficiles. Malgré les souffrances et les tensions qui les entourent, elle cherche à leur apporter du réconfort grâce à sa gentillesse et à son optimisme. Mais derrière cette étrange transformation se cache une histoire familiale bien plus profonde."
+  },
+  {
+    "id": 83,
+    "nom": "Violet Evergarden",
+    "annee": 2018,
+    "genres": ["Drame", "Fantasy", "Romance", "Guerre", "Slice of Life", "Tragédie"],
+    "synopsis": "Après une guerre qui a profondément bouleversé le continent, Violet Evergarden tente de reconstruire sa vie dans un monde désormais en paix. Ancienne soldate élevée pour combattre, elle a du mal à comprendre les émotions humaines et les mots qui les expriment. Engagée dans une entreprise de rédaction de lettres, elle devient une poupée de souvenirs automatiques, chargée de mettre par écrit les pensées et les sentiments de ses clients. Au fil de ses missions, elle découvre des histoires très différentes et apprend à transmettre des émotions qu'elle ne parvient pas encore à saisir pleinement. Mais une question continue de la poursuivre : que signifiaient réellement les derniers mots que lui a adressés le major Gilbert ?"
+  },
+  {
+    "id": 84,
+    "nom": "A Silent Voice",
+    "annee": 2016,
+    "genres": ["Drame", "Romance", "Psychologique", "Scolaire", "Slice of Life"],
+    "synopsis": "Shōya Ishida est un collégien qui aime s'amuser avec ses camarades, jusqu'à l'arrivée de Shōko Nishimiya, une nouvelle élève sourde. Malgré ses efforts pour communiquer avec les autres, Shōko devient rapidement la cible de moqueries et de harcèlement, auxquels Shōya participe. Plusieurs années plus tard, devenu lycéen et profondément marqué par son passé, il décide de retrouver Shōko afin de lui présenter ses excuses. Cette rencontre lui donne l'occasion de faire face aux conséquences de ses actes et de tenter de réparer les liens qu'il a brisés. À travers leur rapprochement et leurs relations avec les autres, le film aborde la culpabilité, le pardon, l'isolement et les difficultés à communiquer avec ceux qui nous entourent."
+  },
+  {
+    "id": 85,
+    "nom": "Your Name",
+    "annee": 2016,
+    "genres": ["Romance", "Drame", "Fantasy", "Surnaturel", "Mystère"],
+    "synopsis": "Mitsuha Miyamizu vit dans une petite ville rurale du Japon, où elle rêve d'échapper à son quotidien pour découvrir la vie animée de Tokyo. Taki Tachibana, lui, est un lycéen de la capitale qui partage son temps entre les cours et un petit travail. Un jour, les deux adolescents commencent mystérieusement à échanger leurs corps pendant leur sommeil. D'abord déconcertés par cette situation, ils apprennent progressivement à communiquer et à s'adapter à la vie de l'autre grâce à des messages laissés sur leurs téléphones. Mais ces échanges deviennent soudainement plus rares, puis cessent complètement. Déterminés à comprendre ce qui leur arrive, ils cherchent à se retrouver malgré une distance qui semble dépasser les simples kilomètres."
+  },
+  {
+    "id": 86,
+    "nom": "Weathering with You",
+    "annee": 2019,
+    "genres": ["Romance", "Drame", "Fantasy", "Surnaturel", "Slice of Life"],
+    "synopsis": "Hodaka Morishima, un adolescent ayant quitté son île natale, arrive à Tokyo où il tente de commencer une nouvelle vie. Mais la capitale est frappée par une pluie incessante qui semble ne jamais vouloir s'arrêter. Après plusieurs difficultés, il rencontre Hina Amano, une jeune fille capable de faire apparaître le soleil et d'éclaircir le ciel grâce à une mystérieuse faculté. Ensemble, ils décident de proposer leurs services aux habitants qui souhaitent profiter d'un moment de beau temps. Leur activité rencontre rapidement un grand succès, mais cette capacité surnaturelle semble avoir un prix. Alors que leur relation devient de plus en plus importante, Hodaka et Hina doivent faire face aux conséquences de leurs choix dans une ville bouleversée par des phénomènes météorologiques inhabituels."
+  },
+  {
+    "id": 87,
+    "nom": "Suzume",
+    "annee": 2022,
+    "genres": ["Aventure", "Fantasy", "Drame", "Romance", "Surnaturel", "Mystère"],
+    "synopsis": "Suzume Iwato, une lycéenne vivant dans une région paisible du Japon, rencontre un jour Sōta, un jeune homme à la recherche de portes mystérieuses. Intriguée, elle le suit jusqu'à une ruine où se trouve une étrange porte ouverte sur un autre monde. En la laissant sans surveillance, Suzume déclenche une série d'événements dangereux liés à des catastrophes qui menacent différentes régions du pays. Elle découvre alors que des portes similaires apparaissent à travers le Japon et qu'elles doivent être refermées pour empêcher le désastre. Accompagnée de Sōta, elle entreprend un voyage à travers le pays afin de retrouver ces passages et de comprendre leur origine. Cette aventure l'amène également à affronter des souvenirs personnels qu'elle n'a jamais totalement surmontés."
+  },
+  {
+    "id": 88,
+    "nom": "The Garden of Words",
+    "annee": 2013,
+    "genres": ["Romance", "Drame", "Slice of Life", "Psychologique"],
+    "synopsis": "Takao Akizuki est un lycéen passionné par la création de chaussures. Lorsqu'il pleut, il préfère parfois sécher les cours pour se rendre dans un jardin public de Tokyo, où il peut dessiner tranquillement à l'abri. Un matin, il y rencontre Yukari Yukino, une femme mystérieuse qui semble elle aussi chercher un refuge loin de son quotidien. Au fil des journées pluvieuses, les deux personnages prennent l'habitude de se retrouver dans ce même endroit, sans vraiment chercher à connaître leur vie respective. Peu à peu, une relation particulière se construit entre eux, fondée sur le silence, la confiance et des conversations parfois hésitantes. Alors que la saison des pluies touche à sa fin, chacun doit réfléchir à sa situation et à la place que cette rencontre occupe dans son existence."
+  },
+  {
+    "id": 89,
+    "nom": "March Comes in Like a Lion",
+    "annee": 2016,
+    "genres": ["Drame", "Psychologique", "Slice of Life", "Sport"],
+    "synopsis": "Rei Kiriyama est un adolescent de dix-sept ans qui exerce déjà comme joueur professionnel de shōgi, un jeu de stratégie japonais. Devenu orphelin très jeune, il a grandi dans un environnement familial difficile et mène désormais une existence solitaire à Tokyo. Malgré ses compétences exceptionnelles, il peine à trouver sa place parmi les autres et reste profondément marqué par son passé. Sa rencontre avec les trois sœurs Kawamoto, Akari, Hinata et Momo, lui apporte progressivement un nouveau lien avec le monde extérieur. Entre compétitions de shōgi, difficultés personnelles et moments de vie quotidienne, Rei apprend peu à peu à comprendre ses émotions, à créer des relations sincères et à avancer malgré ses blessures."
+  },
+  {
+    "id": 90,
+    "nom": "Death Parade",
+    "annee": 2015,
+    "genres": ["Drame", "Mystère", "Psychologique", "Surnaturel", "Thriller"],
+    "synopsis": "Après leur mort, certaines personnes se retrouvent dans un mystérieux bar appelé le Quindecim, où elles sont accueillies par Decim, un barman énigmatique. Dans cet établissement, les visiteurs doivent participer à des jeux dont les règles semblent ordinaires, mais qui prennent rapidement une dimension inquiétante. Ces épreuves ont pour objectif de révéler leur véritable personnalité, leurs souvenirs et leurs réactions face à des situations extrêmes. Decim observe leurs comportements afin de porter un jugement sur leur destinée après la mort. Cependant, l'arrivée d'une jeune femme amnésique remet progressivement en question ses méthodes et sa compréhension des êtres humains. À travers plusieurs rencontres, la série explore les choix, les regrets et les différentes facettes de la nature humaine."
+  },
+  {
+    "id": 91,
+    "nom": "Monster",
+    "annee": 2004,
+    "genres": ["Drame", "Mystère", "Psychologique", "Thriller", "Policier", "Seinen"],
+    "synopsis": "Kenzo Tenma est un neurochirurgien japonais réputé qui travaille dans un hôpital allemand. Un soir, il choisit de sauver la vie d'un jeune garçon plutôt que celle d'un homme influent, une décision qui bouleverse profondément sa carrière et son existence. Plusieurs années plus tard, des événements troublants le conduisent à découvrir que l'enfant qu'il a sauvé, Johan Liebert, est devenu un individu particulièrement dangereux. Se sentant responsable des conséquences de son choix, Tenma abandonne sa vie d'avant pour retrouver Johan et tenter de mettre fin à ses actes. Mais son enquête le plonge dans une affaire complexe mêlant meurtres, identités mystérieuses et secrets enfouis. La série suit une poursuite psychologique où les frontières entre le bien et le mal deviennent de plus en plus difficiles à définir."
+  },
+  {
+    "id": 92,
+    "nom": "Another",
+    "annee": 2012,
+    "genres": ["Horreur", "Mystère", "Thriller", "Surnaturel", "Drame", "Psychologique"],
+    "synopsis": "En 1998, Kōichi Sakakibara arrive dans une nouvelle école après avoir été transféré à Yomiyama, une ville où il doit vivre chez ses grands-parents. Dans sa classe, il remarque rapidement une atmosphère étrange : ses camarades semblent éviter une mystérieuse élève nommée Mei Misaki, comme si elle n'existait pas. Intrigué par son comportement et par le malaise général, Kōichi tente de comprendre ce qui se passe réellement. Il découvre peu à peu qu'une terrible légende entoure cette classe depuis plusieurs décennies. Chaque année, une série d'événements tragiques semble frapper les élèves et leurs proches. Alors que les incidents se multiplient, Kōichi cherche à percer le secret de cette malédiction avant qu'il ne soit trop tard."
+  },
+  {
+    "id": 93,
+    "nom": "Higurashi: When They Cry",
+    "annee": 2006,
+    "genres": ["Horreur", "Mystère", "Psychologique", "Thriller", "Drame", "Surnaturel"],
+    "synopsis": "En juin 1983, Keiichi Maebara emménage dans le paisible village rural d'Hinamizawa. Il s'intègre rapidement à un petit groupe de camarades avec lesquels il passe ses journées entre jeux et activités scolaires. Pourtant, derrière l'atmosphère chaleureuse du village se cache une histoire inquiétante liée à une série de morts et de disparitions survenues chaque année pendant le festival local de Watanagashi. Lorsque Keiichi découvre certains détails de ces événements, ses amis semblent soudainement cacher des informations importantes. Peu à peu, la confiance qui régnait entre eux laisse place au doute et à la peur. La série dévoile progressivement les secrets d'Hinamizawa à travers plusieurs récits qui explorent différentes versions des mêmes événements."
+  },
+  {
+    "id": 94,
+    "nom": "Elfen Lied",
+    "annee": 2004,
+    "genres": ["Action", "Drame", "Horreur", "Psychologique", "Science-Fiction", "Tragédie", "Seinen"]
+  },
+  {
+    "id": 95,
+    "nom": "Serial Experiments Lain",
+    "annee": 1998,
+    "genres": ["Science-Fiction", "Psychologique", "Mystère", "Horreur", "Surnaturel"]
+  },
+  {
+    "id": 96,
+    "nom": "Ergo Proxy",
+    "annee": 2006,
+    "genres": ["Science-Fiction", "Mystère", "Psychologique", "Drame", "Thriller", "Seinen"]
+  },
+  {
+    "id": 97,
+    "nom": "Cowboy Bebop",
+    "annee": 1998,
+    "genres": ["Action", "Aventure", "Science-Fiction", "Drame", "Comédie", "Espace"]
+  },
+  {
+    "id": 98,
+    "nom": "Trigun",
+    "annee": 1998,
+    "genres": ["Action", "Aventure", "Comédie", "Science-Fiction", "Drame", "Western"]
+  },
+  {
+    "id": 99,
+    "nom": "Samurai Champloo",
+    "annee": 2004,
+    "genres": ["Action", "Aventure", "Comédie", "Arts Martiaux", "Historique", "Samouraï"]
+  },
+  {
+    "id": 100,
+    "nom": "Gintama",
+    "annee": 2006,
+    "genres": ["Action", "Aventure", "Comédie", "Science-Fiction", "Parodie", "Samouraï", "Shōnen"]
+  },
+  {
+    "id": 101,
+    "nom": "Solo Leveling",
+    "annee": 2024,
+    "genres": ["Action", "Aventure", "Fantasy", "Surnaturel", "Arts Martiaux", "Donjon"]
+  },
+  {
+    "id": 102,
+    "nom": "Dandadan",
+    "annee": 2024,
+    "genres": ["Action", "Comédie", "Romance", "Science-Fiction", "Surnaturel", "Mystère"]
+  },
+  {
+    "id": 103,
+    "nom": "Kaiju No. 8",
+    "annee": 2024,
+    "genres": ["Action", "Science-Fiction", "Monstre", "Drame", "Comédie", "Shōnen"]
+  },
+  {
+    "id": 104,
+    "nom": "Wind Breaker",
+    "annee": 2024,
+    "genres": ["Action", "Arts Martiaux", "Drame", "Scolaire", "Comédie", "Shōnen"]
+  },
+  {
+    "id": 105,
+    "nom": "The Elusive Samurai",
+    "annee": 2024,
+    "genres": ["Action", "Aventure", "Comédie", "Historique", "Samouraï", "Shōnen"]
+  },
+  {
+    "id": 106,
+    "nom": "Blue Box",
+    "annee": 2024,
+    "genres": ["Romance", "Sport", "Drame", "Scolaire", "Slice of Life", "Shōnen"]
+  },
+  {
+    "id": 107,
+    "nom": "Oshi no Ko",
+    "annee": 2023,
+    "genres": ["Drame", "Mystère", "Psychologique", "Surnaturel", "Musique", "Thriller", "Seinen"]
+  },
+  {
+    "id": 108,
+    "nom": "Hell's Paradise",
+    "annee": 2023,
+    "genres": ["Action", "Aventure", "Fantasy", "Horreur", "Surnaturel", "Arts Martiaux", "Shōnen"]
+  },
+  {
+    "id": 109,
+    "nom": "Zom 100: Bucket List of the Dead",
+    "annee": 2023,
+    "genres": ["Action", "Comédie", "Horreur", "Survie", "Zombie", "Drame"]
+  },
+  {
+    "id": 110,
+    "nom": "Heavenly Delusion",
+    "annee": 2023,
+    "genres": ["Aventure", "Science-Fiction", "Mystère", "Drame", "Post-apocalyptique", "Thriller"]
+  },
+  {
+    "id": 111,
+    "nom": "Pluto",
+    "annee": 2023,
+    "genres": ["Science-Fiction", "Mystère", "Drame", "Thriller", "Policier", "Psychologique", "Seinen"]
+  },
+  {
+    "id": 112,
+    "nom": "Shangri-La Frontier",
+    "annee": 2023,
+    "genres": ["Action", "Aventure", "Fantasy", "Jeu Vidéo", "Comédie", "Science-Fiction"]
+  },
+  {
+    "id": 113,
+    "nom": "Undead Unluck",
+    "annee": 2023,
+    "genres": ["Action", "Comédie", "Surnaturel", "Fantasy", "Science-Fiction", "Romance", "Shōnen"]
+  },
+  {
+    "id": 114,
+    "nom": "The Dangers in My Heart",
+    "annee": 2023,
+    "genres": ["Romance", "Comédie", "Psychologique", "Scolaire", "Slice of Life"]
+  },
+  {
+    "id": 115,
+    "nom": "Skip and Loafer",
+    "annee": 2023,
+    "genres": ["Comédie", "Romance", "Drame", "Scolaire", "Slice of Life"]
+  },
+  {
+    "id": 116,
+    "nom": "My Happy Marriage",
+    "annee": 2023,
+    "genres": ["Romance", "Drame", "Fantasy", "Historique", "Surnaturel"]
+  },
+  {
+    "id": 117,
+    "nom": "Dark Gathering",
+    "annee": 2023,
+    "genres": ["Horreur", "Mystère", "Surnaturel", "Psychologique", "Aventure", "Shōnen"]
+  },
+  {
+    "id": 118,
+    "nom": "Undead Girl Murder Farce",
+    "annee": 2023,
+    "genres": ["Mystère", "Surnaturel", "Policier", "Fantasy", "Comédie", "Historique"]
+  },
+  {
+    "id": 119,
+    "nom": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
+    "annee": 2023,
+    "genres": ["Comédie", "Romance", "Harem", "Parodie", "Scolaire"]
+  },
+  {
+    "id": 120,
+    "nom": "The Most Heretical Last Boss Queen",
+    "annee": 2023,
+    "genres": ["Fantasy", "Romance", "Drame", "Isekai", "Magie"]
+  },
+  {
+    "id": 121,
+    "nom": "The Wrong Way to Use Healing Magic",
+    "annee": 2024,
+    "genres": ["Action", "Aventure", "Fantasy", "Magie", "Comédie", "Isekai"],
+    "synopsis": "Ken Usato, un lycéen ordinaire, est accidentellement entraîné dans l'invocation de deux élèves destinés à devenir des héros dans un royaume fantastique. Alors qu'il ne possède aucune aptitude particulière au départ, il découvre qu'il maîtrise la magie de guérison, une capacité rare qui attire immédiatement l'attention de Rose, la commandante d'une unité de secours militaire. Celle-ci décide de le recruter et lui impose un entraînement particulièrement exigeant afin de transformer son pouvoir en véritable atout sur le champ de bataille. Ken découvre rapidement que la magie de soin ne sert pas uniquement à réparer les blessures, mais peut également être exploitée de manière inattendue. Entre exercices éprouvants, nouvelles rencontres et menace de guerre, il doit apprendre à maîtriser ses capacités et à trouver sa place dans ce monde qui n'était pas censé l'accueillir."
+  },
+  {
+    "id": 122,
+    "nom": "Ishura",
+    "annee": 2024,
+    "genres": ["Action", "Fantasy", "Aventure", "Magie", "Arts Martiaux", "Drame"]
+  },
+  {
+    "id": 123,
+    "nom": "Chained Soldier",
+    "annee": 2024,
+    "genres": ["Action", "Fantasy", "Surnaturel", "Science-Fiction", "Arts Martiaux"]
+  },
+  {
+    "id": 124,
+    "nom": "Wistoria: Wand and Sword",
+    "annee": 2024,
+    "genres": ["Action", "Aventure", "Fantasy", "Magie", "École", "Arts Martiaux"]
+  },
+  {
+    "id": 125,
+    "nom": "Re:Monster",
+    "annee": 2024,
+    "genres": ["Action", "Aventure", "Fantasy", "Isekai", "Magie", "Réincarnation"]
+  },
+  {
+    "id": 126,
+    "nom": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill",
+    "annee": 2024,
+    "genres": ["Aventure", "Fantasy", "Isekai", "Stratégie", "Politique", "Réincarnation"]
+  },
+  {
+    "id": 127,
+    "nom": "The New Gate",
+    "annee": 2024,
+    "genres": ["Action", "Aventure", "Fantasy", "Jeu Vidéo", "Magie", "Isekai"]
+  },
+  {
+    "id": 128,
+    "nom": "The Banished Former Hero Lives as He Pleases",
+    "annee": 2024,
+    "genres": ["Action", "Aventure", "Fantasy", "Magie", "Réincarnation"]
+  },
+  {
+    "id": 129,
+    "nom": "A Journey Through Another World",
+    "annee": 2024,
+    "genres": ["Aventure", "Fantasy", "Comédie", "Isekai", "Magie"]
+  },
+  {
+    "id": 130,
+    "nom": "Failure Frame",
+    "annee": 2024,
+    "genres": ["Action", "Fantasy", "Drame", "Isekai", "Magie", "Vengeance"]
+  },
+  {
+    "id": 131,
+    "nom": "Alya Sometimes Hides Her Feelings in Russian",
+    "annee": 2024,
+    "genres": ["Romance", "Comédie", "Scolaire", "Slice of Life"]
+  },
+  {
+    "id": 132,
+    "nom": "Makeine: Too Many Losing Heroines!",
+    "annee": 2024,
+    "genres": ["Romance", "Comédie", "Scolaire", "Drame", "Slice of Life"]
+  },
+  {
+    "id": 133,
+    "nom": "Orb: On the Movements of the Earth",
+    "annee": 2024,
+    "genres": ["Drame", "Historique", "Philosophique", "Science", "Mystère"]
+  },
+  {
+    "id": 134,
+    "nom": "Girls Band Cry",
+    "annee": 2024,
+    "genres": ["Drame", "Musique", "Comédie", "Slice of Life"]
+  },
+  {
+    "id": 135,
+    "nom": "Dungeon People",
+    "annee": 2024,
+    "genres": ["Aventure", "Fantasy", "Comédie", "Mystère", "Slice of Life"]
+  },
+  {
+    "id": 136,
+    "nom": "Yatagarasu: The Raven Does Not Choose Its Master",
+    "annee": 2024,
+    "genres": ["Fantasy", "Mystère", "Drame", "Politique", "Historique"]
+  },
+  {
+    "id": 137,
+    "nom": "Nina the Starry Bride",
+    "annee": 2024,
+    "genres": ["Fantasy", "Romance", "Drame", "Aventure", "Historique"]
+  },
+  {
+    "id": 138,
+    "nom": "Terminator Zero",
+    "annee": 2024,
+    "genres": ["Action", "Science-Fiction", "Thriller", "Voyage Temporel", "Drame"]
+  },
+  {
+    "id": 139,
+    "nom": "Ranma ½",
+    "annee": 2024,
+    "genres": ["Action", "Comédie", "Romance", "Arts Martiaux", "Surnaturel"]
+  },
+  {
+    "id": 140,
+    "nom": "The Fable",
+    "annee": 2024,
+    "genres": ["Action", "Comédie", "Policier", "Drame", "Seinen"]
+  },
+  {
+    "id": 141,
+    "nom": "Sakamoto Days",
+    "annee": 2025,
+    "genres": ["Action", "Comédie", "Arts Martiaux", "Policier", "Shōnen"]
+  },
+  {
+    "id": 142,
+    "nom": "Gachiakuta",
+    "annee": 2025,
+    "genres": ["Action", "Aventure", "Fantasy", "Science-Fiction", "Drame", "Shōnen"]
+  },
+  {
+    "id": 143,
+    "nom": "The Summer Hikaru Died",
+    "annee": 2025,
+    "genres": ["Horreur", "Mystère", "Surnaturel", "Drame", "Psychologique"]
+  },
+  {
+    "id": 144,
+    "nom": "Takopi's Original Sin",
+    "annee": 2025,
+    "genres": ["Drame", "Science-Fiction", "Psychologique", "Tragédie", "Mystère"]
+  },
+  {
+    "id": 145,
+    "nom": "The Fragrant Flower Blooms with Dignity",
+    "annee": 2025,
+    "genres": ["Romance", "Drame", "Comédie", "Scolaire", "Slice of Life"]
+  },
+  {
+    "id": 146,
+    "nom": "The Water Magician",
+    "annee": 2025,
+    "genres": ["Aventure", "Fantasy", "Magie", "Comédie", "Isekai"]
+  },
+  {
+    "id": 147,
+    "nom": "Clevatess",
+    "annee": 2025,
+    "genres": ["Action", "Fantasy", "Aventure", "Drame", "Magie"]
+  },
+  {
+    "id": 148,
+    "nom": "Dr. Stone: Science Future",
+    "annee": 2025,
+    "genres": ["Aventure", "Science-Fiction", "Comédie", "Survie", "Science", "Shōnen"]
+  },
+  {
+    "id": 149,
+    "nom": "Medalist",
+    "annee": 2025,
+    "genres": ["Sport", "Drame", "Comédie", "Psychologique", "Slice of Life"]
+  },
+  {
+    "id": 150,
+    "nom": "Lazarus",
+    "annee": 2025,
+    "genres": ["Action", "Science-Fiction", "Thriller", "Mystère", "Drame"]
+  },
+  {
+    "id": 151,
+    "nom": "The Apothecary Diaries Season 2",
+    "annee": 2025,
+    "genres": ["Drame", "Mystère", "Historique", "Enquête", "Psychologique", "Médical"]
+  },
+  {
+    "id": 152,
+    "nom": "My Hero Academia: Vigilantes",
+    "annee": 2025,
+    "genres": ["Action", "Super-héros", "Drame", "Science-Fiction", "Shōnen"]
+  },
+  {
+    "id": 153,
+    "nom": "The Too-Perfect Saint",
+    "annee": 2025,
+    "genres": ["Fantasy", "Romance", "Drame", "Magie"]
+  },
+  {
+    "id": 154,
+    "nom": "Witch Watch",
+    "annee": 2025,
+    "genres": ["Comédie", "Fantasy", "Romance", "Magie", "Scolaire", "Shōnen"]
+  },
+  {
+    "id": 155,
+    "nom": "Black Butler: Emerald Witch Arc",
+    "annee": 2025,
+    "genres": ["Mystère", "Surnaturel", "Fantasy", "Drame", "Historique"]
+  },
+  {
+    "id": 156,
+    "nom": "The Beginning After the End",
+    "annee": 2025,
+    "genres": ["Action", "Aventure", "Fantasy", "Magie", "Réincarnation"]
+  },
+  {
+    "id": 157,
+    "nom": "Kowloon Generic Romance",
+    "annee": 2025,
+    "genres": ["Romance", "Mystère", "Science-Fiction", "Drame", "Psychologique"]
+  },
+  {
+    "id": 158,
+    "nom": "Apocalypse Hotel",
+    "annee": 2025,
+    "genres": ["Science-Fiction", "Comédie", "Post-apocalyptique", "Drame", "Slice of Life"]
+  },
+  {
+    "id": 159,
+    "nom": "The Brilliant Healer's New Life in the Shadows",
+    "annee": 2025,
+    "genres": ["Fantasy", "Aventure", "Magie", "Comédie", "Drame"]
+  },
+  {
+    "id": 160,
+    "nom": "Food for the Soul",
+    "annee": 2025,
+    "genres": ["Cuisine", "Comédie", "Slice of Life", "Scolaire"]
+  },
+  {
+    "id": 161,
+    "nom": "Grand Blue Dreaming",
+    "annee": 2018,
+    "genres": ["Comédie", "Slice of Life", "Sport", "Seinen"]
+  },
+  {
+    "id": 162,
+    "nom": "Banana Fish",
+    "annee": 2018,
+    "genres": ["Action", "Drame", "Thriller", "Policier", "Psychologique", "Seinen"]
+  },
+  {
+    "id": 163,
+    "nom": "Megalo Box",
+    "annee": 2018,
+    "genres": ["Sport", "Action", "Drame", "Science-Fiction", "Arts Martiaux"]
+  },
+  {
+    "id": 164,
+    "nom": "Cells at Work!",
+    "annee": 2018,
+    "genres": ["Comédie", "Science", "Action", "Éducatif", "Slice of Life"]
+  },
+  {
+    "id": 165,
+    "nom": "Yuru Camp",
+    "annee": 2018,
+    "genres": ["Comédie", "Slice of Life", "Aventure"]
+  },
+  {
+    "id": 166,
+    "nom": "Wotakoi: Love Is Hard for Otaku",
+    "annee": 2018,
+    "genres": ["Romance", "Comédie", "Slice of Life"]
+  },
+  {
+    "id": 167,
+    "nom": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "annee": 2018,
+    "genres": ["Romance", "Drame", "Psychologique", "Surnaturel", "Scolaire"]
+  },
+  {
+    "id": 168,
+    "nom": "That Time I Got Reincarnated as a Slime: The Slime Diaries",
+    "annee": 2021,
+    "genres": ["Comédie", "Fantasy", "Slice of Life", "Isekai"]
+  },
+  {
+    "id": 169,
+    "nom": "Beastars",
+    "annee": 2019,
+    "genres": ["Drame", "Romance", "Mystère", "Psychologique", "Slice of Life", "Seinen"]
+  },
+  {
+    "id": 170,
+    "nom": "Dororo",
+    "annee": 2019,
+    "genres": ["Action", "Aventure", "Fantasy", "Historique", "Surnaturel", "Drame"]
+  },
+  {
+    "id": 171,
+    "nom": "Given",
+    "annee": 2019,
+    "genres": ["Romance", "Drame", "Musique", "Slice of Life"]
+  },
+  {
+    "id": 172,
+    "nom": "Welcome to Demon School! Iruma-kun",
+    "annee": 2019,
+    "genres": ["Comédie", "Fantasy", "Surnaturel", "École", "Magie", "Shōnen"]
+  },
+  {
+    "id": 173,
+    "nom": "Ascendance of a Bookworm",
+    "annee": 2019,
+    "genres": ["Fantasy", "Isekai", "Drame", "Slice of Life", "Magie"],
+     "synopsis": "Motosu Urano, une jeune femme passionnée de livres, meurt dans un accident et se réveille dans le corps de Myne, une petite fille fragile vivant dans un monde médiéval. Elle découvre rapidement que les livres y sont rares, coûteux et réservés à une minorité privilégiée. Incapable d'accepter l'idée de vivre sans lecture, elle décide de fabriquer ses propres livres malgré les nombreuses difficultés matérielles de son nouvel environnement. Mais les connaissances modernes qu'elle conserve de sa vie précédente ne suffisent pas : elle doit apprendre les techniques artisanales de ce monde, comprendre ses règles sociales et composer avec sa santé fragile. Sa détermination l'entraîne progressivement dans des activités commerciales et des découvertes qui dépassent son projet initial. À travers son parcours, elle cherche à rendre les livres accessibles tout en trouvant sa place dans une société profondément différente de celle qu'elle connaissait."
+  },
+  {
+    "id": 174,
+    "nom": "The Helpful Fox Senko-san",
+    "annee": 2019,
+    "genres": ["Comédie", "Fantasy", "Surnaturel", "Slice of Life"]
+  },
+  {
+    "id": 175,
+    "nom": "ID: INVADED",
+    "annee": 2020,
+    "genres": ["Science-Fiction", "Mystère", "Policier", "Psychologique", "Thriller"]
+  },
+  {
+    "id": 176,
+    "nom": "Dorohedoro",
+    "annee": 2020,
+    "genres": ["Action", "Fantasy", "Horreur", "Comédie", "Mystère", "Seinen"]
+  },
+  {
+    "id": 177,
+    "nom": "Great Pretender",
+    "annee": 2020,
+    "genres": ["Comédie", "Policier", "Drame", "Aventure", "Mystère"]
+  },
+  {
+    "id": 178,
+    "nom": "Deca-Dence",
+    "annee": 2020,
+    "genres": ["Action", "Science-Fiction", "Aventure", "Post-apocalyptique", "Drame"]
+  },
+  {
+    "id": 179,
+    "nom": "Keep Your Hands Off Eizouken!",
+    "annee": 2020,
+    "genres": ["Comédie", "Aventure", "Slice of Life", "Scolaire", "Création"]
+  },
+  {
+    "id": 180,
+    "nom": "Bofuri",
+    "annee": 2020,
+    "genres": ["Action", "Aventure", "Comédie", "Fantasy", "Jeu Vidéo"]
+  },
+  {
+    "id": 181,
+    "nom": "Akudama Drive",
+    "annee": 2020,
+    "genres": ["Action", "Science-Fiction", "Thriller", "Policier", "Cyberpunk"]
+  },
+  {
+    "id": 182,
+    "nom": "Talentless Nana",
+    "annee": 2020,
+    "genres": ["Mystère", "Psychologique", "Thriller", "Surnaturel", "Drame", "Scolaire"]
+  },
+  {
+    "id": 183,
+    "nom": "To Your Eternity",
+    "annee": 2021,
+    "genres": ["Aventure", "Drame", "Fantasy", "Surnaturel", "Philosophique"]
+  },
+  {
+    "id": 184,
+    "nom": "Ranking of Kings",
+    "annee": 2021,
+    "genres": ["Aventure", "Fantasy", "Drame", "Action", "Conte"]
+  },
+  {
+    "id": 185,
+    "nom": "Odd Taxi",
+    "annee": 2021,
+    "genres": ["Mystère", "Policier", "Thriller", "Psychologique", "Drame"]
+  },
+  {
+    "id": 186,
+    "nom": "Vivy: Fluorite Eye's Song",
+    "annee": 2021,
+    "genres": ["Science-Fiction", "Action", "Drame", "Musique", "Voyage Temporel"]
+  },
+  {
+    "id": 187,
+    "nom": "Tokyo Revengers",
+    "annee": 2021,
+    "genres": ["Action", "Drame", "Voyage Temporel", "Arts Martiaux", "Surnaturel", "Shōnen"]
+  },
+  {
+    "id": 188,
+    "nom": "86: Eighty-Six",
+    "annee": 2021,
+    "genres": ["Action", "Science-Fiction", "Drame", "Guerre", "Militaire", "Mecha"],
+    "synopsis": "La République de San Magnolia affirme mener une guerre sans pertes humaines contre l'Empire de Giad, grâce à des drones autonomes appelés Juggernauts. En réalité, ces machines sont pilotées par les Eighty-Six, des citoyens privés de leurs droits et envoyés combattre dans des zones dangereuses. Vladilena Milizé, une jeune officier chargée de superviser une unité depuis l'arrière, découvre progressivement la réalité de cette guerre et refuse de considérer ses soldats comme de simples outils. Elle entre en contact avec Shinei Nouzen, surnommé Undertaker, le commandant d'une escouade particulièrement expérimentée. Malgré la distance qui les sépare, les deux personnages tentent de construire une relation fondée sur la confiance. Entre discrimination, sacrifices et conflit militaire, la série explore les conséquences humaines d'une guerre menée derrière des discours officiels trompeurs."
+  },
+  {
+    "id": 189,
+    "nom": "Komi Can't Communicate",
+    "annee": 2021,
+    "genres": ["Comédie", "Romance", "Scolaire", "Slice of Life"]
+  },
+  {
+    "id": 190,
+    "nom": "The Case Study of Vanitas",
+    "annee": 2021,
+    "genres": ["Action", "Fantasy", "Mystère", "Vampire", "Drame", "Historique"]
+  },
+  {
+    "id": 191,
+    "nom": "Sonny Boy",
+    "annee": 2021,
+    "genres": ["Science-Fiction", "Mystère", "Surnaturel", "Psychologique", "Drame"]
+  },
+  {
+    "id": 192,
+    "nom": "Link Click",
+    "annee": 2021,
+    "genres": ["Mystère", "Thriller", "Drame", "Science-Fiction", "Surnaturel", "Voyage Temporel"]
+  },
+  {
+    "id": 193,
+    "nom": "Bocchi the Rock!",
+    "annee": 2022,
+    "genres": ["Comédie", "Musique", "Slice of Life", "Scolaire"]
+  },
+  {
+    "id": 194,
+    "nom": "Summertime Rendering",
+    "annee": 2022,
+    "genres": ["Mystère", "Thriller", "Surnaturel", "Science-Fiction", "Horreur", "Drame"]
+  },
+  {
+    "id": 195,
+    "nom": "Lycoris Recoil",
+    "annee": 2022,
+    "genres": ["Action", "Comédie", "Drame", "Policier", "Slice of Life"]
+  },
+  {
+    "id": 196,
+    "nom": "Call of the Night",
+    "annee": 2022,
+    "genres": ["Romance", "Surnaturel", "Vampire", "Comédie", "Slice of Life"]
+  },
+  {
+    "id": 197,
+    "nom": "Ya Boy Kongming!",
+    "annee": 2022,
+    "genres": ["Comédie", "Musique", "Historique", "Fantasy", "Slice of Life"]
+  },
+  {
+    "id": 198,
+    "nom": "Tomodachi Game",
+    "annee": 2022,
+    "genres": ["Mystère", "Psychologique", "Thriller", "Drame", "Jeu"]
+  },
+  {
+    "id": 199,
+    "nom": "Cyberpunk: Edgerunners",
+    "annee": 2022,
+    "genres": ["Action", "Science-Fiction", "Cyberpunk", "Drame", "Tragédie"]
+  },
+  {
+    "id": 200,
+    "nom": "My Dress-Up Darling",
+    "annee": 2022,
+    "genres": ["Romance", "Comédie", "Scolaire", "Slice of Life"]
+  }
+
+]
